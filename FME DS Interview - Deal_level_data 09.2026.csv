@@ -1,0 +1,1101 @@
+deal_id,region,customer_segment,product_type,list_price_eur,discount_pct,competitor_present,deal_size_units,sales_rep_tenure_years,days_to_close,win_flag
+D00901,Nordics,Group Purchasing Org,Consumable Bundle,10661.0,32.4,No,41.0,7.7,83.0,1
+D00529,LATAM,Public Tender,Machine,37304.0,20.6,Yes,7.0,5.9,28.0,0
+D00735,DACH,Public Tender,Consumable Bundle,9603.0,23.9,Yes,40.0,12.5,36.0,1
+D01058,DACH,Public Tender,Machine,37585.0,16.0,No,4.0,5.2,66.0,0
+D00749,LATAM,Private Hospital Network,Consumable Bundle,8668.0,6.8,No,47.0,6.8,64.0,1
+D00611,Nordics,Independent Clinic,Machine,33973.0,99.0,Yes,6.0,7.8,80.0,1
+D00109,DACH,Public Tender,Consumable Bundle,10634.0,19.0,No,52.0,,36.0,0
+D00271,DACH,Public Tender,Consumable Bundle,12106.0,31.2,Yes,59.0,7.7,43.0,0
+D00789,LATAM,Group Purchasing Org,Machine,44060.0,18.3,No,6.0,3.3,15.0,0
+D00400,Southern Europe,Independent Clinic,Consumable Bundle,10241.0,2.7,No,52.0,5.5,63.0,0
+D00129,DACH,Group Purchasing Org,Consumable Bundle,10718.0,13.2,No,54.0,11.5,66.0,1
+D00124,Southern Europe,Independent Clinic,Machine,35775.0,16.0,No,,2.0,74.0,1
+D00807,LATAM,Private Hospital Network,Consumable Bundle,9536.0,19.2,Yes,47.0,10.1,77.0,0
+D00642,APAC,Public Tender,Consumable Bundle,8272.0,21.9,Yes,54.0,6.5,56.0,1
+D00055,LATAM,Private Hospital Network,Consumable Bundle,5527.0,8.1,Yes,63.0,4.8,63.0,0
+D00455,DACH,Public Tender,Consumable Bundle,9595.0,24.9,No,45.0,6.6,55.0,0
+D00456,DACH,Independent Clinic,Consumable Bundle,8455.0,20.8,No,55.0,2.4,112.0,0
+D00870,DACH,Private Hospital Network,Consumable Bundle,13738.0,7.1,Yes,50.0,5.0,49.0,0
+D00834,LATAM,Group Purchasing Org,Machine,36121.0,10.3,No,6.0,4.3,80.0,1
+D00472,Nordics,Private Hospital Network,Consumable Bundle,10551.0,17.5,No,53.0,1.1,91.0,0
+D00217,DACH,Private Hospital Network,Machine,32326.0,2.8,Yes,10.0,4.5,52.0,0
+D00616,LATAM,Independent Clinic,Consumable Bundle,10612.0,26.8,Yes,55.0,10.0,55.0,0
+D00110,APAC,Private Hospital Network,Consumable Bundle,15224.0,16.1,Yes,,7.1,77.0,0
+D00643,DACH,Public Tender,Consumable Bundle,6172.0,22.3,No,44.0,8.4,29.0,0
+D01024,Nordics,Public Tender,Consumable Bundle,11013.0,15.3,Yes,,10.5,57.0,0
+D00709,Southern Europe,Private Hospital Network,Consumable Bundle,9342.0,5.2,Yes,51.0,3.8,51.0,0
+D00327,APAC,Public Tender,Consumable Bundle,12476.0,19.9,No,46.0,,39.0,1
+D00047,Southern Europe,Independent Clinic,Machine,29716.0,11.1,Yes,12.0,2.3,63.0,0
+D00100,APAC,Independent Clinic,Consumable Bundle,6488.0,13.0,No,46.0,8.4,55.0,1
+D00432,LATAM,Public Tender,Consumable Bundle,10005.0,22.7,Yes,57.0,6.0,77.0,1
+D00114,Nordics,Private Hospital Network,Machine,24447.0,17.4,Yes,6.0,3.0,76.0,0
+D00413,DACH,Independent Clinic,Consumable Bundle,12199.0,9.4,Yes,44.0,2.6,111.0,0
+D00390,APAC,Private Hospital Network,Machine,19031.0,18.6,No,8.0,6.4,88.0,0
+D00900,Nordics,Private Hospital Network,Machine,37228.0,15.7,No,9.0,5.1,67.0,0
+D00841,DACH,Public Tender,Machine,34907.0,11.1,Yes,4.0,5.4,39.0,0
+D01016,DACH,Group Purchasing Org,Consumable Bundle,10064.0,20.7,Yes,50.0,7.8,42.0,0
+D00622,Nordics,Public Tender,Consumable Bundle,13655.0,23.3,Yes,55.0,4.3,56.0,1
+D00628,DACH,Group Purchasing Org,Machine,22523.0,9.8,Yes,8.0,5.0,26.0,0
+D00035,Nordics,Group Purchasing Org,Consumable Bundle,15364.0,22.4,Yes,56.0,4.2,68.0,1
+D00460,LATAM,Group Purchasing Org,Machine,24649.0,21.7,No,8.0,2.8,58.0,0
+D00864,Nordics,Public Tender,Consumable Bundle,9831.0,18.4,Yes,61.0,2.4,33.0,1
+D00315,Southern Europe,Public Tender,Machine,26301.0,24.8,Yes,6.0,2.7,10.0,1
+D00983,LATAM,Independent Clinic,Consumable Bundle,8566.0,12.5,Yes,45.0,4.1,62.0,0
+D00180,LATAM,Independent Clinic,Consumable Bundle,7397.0,13.5,Yes,54.0,10.6,101.0,1
+D00468,APAC,Public Tender,Machine,18429.0,30.0,No,5.0,4.4,110.0,1
+D00054,LATAM,Public Tender,Consumable Bundle,8083.0,23.3,No,41.0,0.2,41.0,1
+D00541,APAC,Independent Clinic,Machine,40188.0,21.3,Yes,8.0,3.2,36.0,1
+D00363,DACH,Public Tender,Consumable Bundle,4999.0,12.5,Yes,47.0,3.3,82.0,1
+D00171,Southern Europe,Group Purchasing Org,Consumable Bundle,5381.0,18.9,Yes,49.0,7.9,66.0,1
+D00917,DACH,Public Tender,Machine,56178.0,12.9,No,3.0,8.2,75.0,0
+D00098,DACH,Independent Clinic,Machine,33159.0,9.2,Yes,10.0,3.5,69.0,0
+D00423,DACH,Group Purchasing Org,Machine,29249.0,25.7,No,7.0,4.0,65.0,0
+D00010,Southern Europe,Public Tender,Machine,28607.0,12.4,No,5.0,0.5,64.0,0
+D00254,Southern Europe,Private Hospital Network,Consumable Bundle,8069.0,15.4,No,45.0,8.6,58.0,1
+D00535,DACH,Group Purchasing Org,Machine,19493.0,24.4,Yes,7.0,9.0,74.0,0
+D00147,Southern Europe,Independent Clinic,Consumable Bundle,7249.0,11.9,No,42.0,5.0,30.0,0
+D01005,LATAM,Independent Clinic,Consumable Bundle,11176.0,12.4,No,,12.6,75.0,1
+D00320,APAC,Group Purchasing Org,Machine,30135.0,20.1,Yes,5.0,,61.0,0
+D00573,Nordics,Independent Clinic,Consumable Bundle,13265.0,23.7,Yes,36.0,10.3,41.0,0
+D00578,Nordics,Private Hospital Network,Consumable Bundle,9577.0,19.2,No,54.0,2.4,76.0,1
+D00936,DACH,Independent Clinic,Consumable Bundle,11070.0,20.5,Yes,51.0,9.3,53.0,1
+D00779,LATAM,Private Hospital Network,Consumable Bundle,9093.0,12.8,No,68.0,9.9,54.0,0
+D00389,DACH,Group Purchasing Org,Consumable Bundle,6851.0,22.3,No,37.0,,22.0,1
+D00443,LATAM,Private Hospital Network,Consumable Bundle,12679.0,21.9,No,49.0,7.3,53.0,0
+D00808,DACH,Public Tender,Machine,36111.0,17.4,Yes,7.0,8.4,55.0,0
+D00861,LATAM,Independent Clinic,Consumable Bundle,10187.0,6.3,Yes,45.0,8.2,107.0,0
+D00245,LATAM,Group Purchasing Org,Consumable Bundle,10838.0,20.1,No,38.0,,69.0,1
+D00821,DACH,Private Hospital Network,Machine,30955.0,21.5,No,6.0,3.9,50.0,1
+D00985,DACH,Independent Clinic,Machine,29595.0,10.1,No,7.0,1.1,67.0,1
+D00532,LATAM,Group Purchasing Org,Machine,30608.0,11.5,No,6.0,5.2,71.0,0
+D00024,APAC,Public Tender,Machine,38106.0,25.8,No,7.0,11.5,41.0,1
+D00173,Southern Europe,Private Hospital Network,Machine,30178.0,9.7,Yes,5.0,1.7,46.0,0
+D00636,DACH,Independent Clinic,Consumable Bundle,7510.0,10.9,Yes,47.0,0.5,7.0,1
+D00984,Nordics,Public Tender,Machine,39855.0,11.2,Yes,9.0,9.5,47.0,0
+D00601,Nordics,Group Purchasing Org,Consumable Bundle,12868.0,20.0,Yes,62.0,12.3,52.0,1
+D00852,DACH,Public Tender,Machine,13715.0,22.5,No,7.0,6.8,58.0,0
+D00844,Southern Europe,Public Tender,Consumable Bundle,12549.0,17.5,Yes,58.0,6.2,74.0,0
+D00446,LATAM,Private Hospital Network,Consumable Bundle,10100.0,15.1,No,53.0,7.3,47.0,0
+D00771,Southern Europe,Private Hospital Network,Consumable Bundle,8742.0,13.2,No,52.0,5.5,42.0,0
+D00501,LATAM,Group Purchasing Org,Consumable Bundle,7549.0,11.3,Yes,49.0,8.2,72.0,1
+D01019,DACH,Public Tender,Machine,26736.0,17.5,No,8.0,9.8,56.0,0
+D00187,Southern Europe,Private Hospital Network,Consumable Bundle,8992.0,9.8,Yes,46.0,1.9,59.0,0
+D00260,Nordics,Public Tender,Consumable Bundle,8614.0,12.0,Yes,53.0,7.1,88.0,1
+D00348,Southern Europe,Private Hospital Network,Machine,34543.0,13.7,No,6.0,4.7,29.0,1
+D00681,DACH,Public Tender,Machine,49124.0,19.0,No,7.0,3.1,50.0,0
+D00490,Nordics,Public Tender,Consumable Bundle,10024.0,21.2,No,54.0,9.2,68.0,1
+D00942,APAC,Independent Clinic,Machine,24037.0,24.3,Yes,7.0,2.1,113.0,1
+D00415,DACH,Group Purchasing Org,Machine,22578.0,8.4,No,5.0,1.7,63.0,1
+D00557,Southern Europe,Public Tender,Consumable Bundle,10316.0,27.0,No,51.0,0.6,7.0,1
+D00448,LATAM,Independent Clinic,Consumable Bundle,8478.0,15.1,Yes,61.0,11.3,102.0,1
+D00041,Southern Europe,Private Hospital Network,Machine,34766.0,16.9,No,7.0,7.1,87.0,1
+D00658,Southern Europe,Group Purchasing Org,Consumable Bundle,4365.0,19.2,Yes,42.0,5.6,52.0,1
+D00757,Southern Europe,Public Tender,Machine,30211.0,23.1,Yes,3.0,3.6,97.0,1
+D00221,Southern Europe,Private Hospital Network,Machine,29698.0,2.1,No,5.0,4.9,48.0,1
+D00663,DACH,Public Tender,Machine,29105.0,22.3,Yes,10.0,3.5,76.0,0
+D00803,APAC,Group Purchasing Org,Machine,36443.0,22.4,No,10.0,0.2,31.0,1
+D00768,DACH,Public Tender,Machine,29866.0,10.0,Yes,7.0,5.0,40.0,0
+D00859,Southern Europe,Group Purchasing Org,Machine,29406.0,10.1,No,7.0,6.0,74.0,0
+D00165,Nordics,Private Hospital Network,Consumable Bundle,8539.0,8.0,Yes,59.0,0.9,81.0,0
+D00700,Southern Europe,Independent Clinic,Consumable Bundle,8221.0,12.3,Yes,49.0,1.3,78.0,1
+D00962,Southern Europe,Public Tender,Consumable Bundle,6665.0,26.9,Yes,48.0,0.2,75.0,0
+D00729,Southern Europe,Group Purchasing Org,Machine,29146.0,15.8,Yes,8.0,7.6,63.0,1
+D01032,LATAM,Independent Clinic,Machine,19838.0,14.8,No,9.0,10.6,70.0,1
+D00531,LATAM,Private Hospital Network,Machine,28523.0,14.8,Yes,5.0,2.8,56.0,0
+D00892,APAC,Independent Clinic,Consumable Bundle,7152.0,13.6,No,51.0,6.1,90.0,1
+D00197,Nordics,Public Tender,Machine,31193.0,19.1,No,5.0,6.0,34.0,1
+D00726,DACH,Public Tender,Consumable Bundle,10758.0,14.2,Yes,49.0,1.7,65.0,1
+D00692,APAC,Private Hospital Network,Consumable Bundle,6698.0,6.1,Yes,29.0,10.8,56.0,0
+D01010,Nordics,Public Tender,Machine,40605.0,20.0,No,7.0,6.0,95.0,0
+D00499,Southern Europe,Group Purchasing Org,Machine,38379.0,9.8,Yes,7.0,4.4,71.0,0
+D00922,APAC,Public Tender,Machine,32660.0,20.1,Yes,6.0,7.3,67.0,0
+D00361,APAC,Independent Clinic,Consumable Bundle,7373.0,24.6,Yes,49.0,2.5,7.0,1
+D00866,APAC,Public Tender,Consumable Bundle,9819.0,14.7,No,49.0,7.1,58.0,1
+D00814,Nordics,Private Hospital Network,Consumable Bundle,7756.0,7.8,No,47.0,0.2,91.0,1
+D00014,APAC,Group Purchasing Org,Consumable Bundle,9587.0,18.9,Yes,47.0,3.9,65.0,0
+D00427,DACH,Private Hospital Network,Consumable Bundle,10251.0,20.4,No,53.0,6.5,71.0,1
+D00378,Southern Europe,Group Purchasing Org,Consumable Bundle,4062.0,21.2,No,43.0,5.4,57.0,1
+D00888,DACH,Independent Clinic,Consumable Bundle,7852.0,14.5,Yes,50.0,3.6,57.0,0
+D00527,APAC,Private Hospital Network,Consumable Bundle,8896.0,18.2,Yes,60.0,6.4,52.0,0
+D00748,Southern Europe,Independent Clinic,Consumable Bundle,15241.0,12.1,No,42.0,9.2,15.0,0
+D01073,Southern Europe,Private Hospital Network,Consumable Bundle,13027.0,19.2,Yes,56.0,7.4,37.0,0
+D01100,DACH,Independent Clinic,Machine,25467.0,15.3,Yes,5.0,4.8,61.0,1
+D00657,APAC,Public Tender,Consumable Bundle,10087.0,4.8,Yes,37.0,0.2,77.0,0
+D00526,Southern Europe,Independent Clinic,Consumable Bundle,8536.0,0.4,Yes,56.0,6.0,74.0,1
+D00126,Nordics,Group Purchasing Org,Consumable Bundle,7194.0,21.3,Yes,52.0,2.8,29.0,1
+D00419,DACH,Public Tender,Consumable Bundle,9265.0,20.9,No,45.0,7.0,37.0,1
+D00882,LATAM,Private Hospital Network,Machine,15070.0,3.4,Yes,,3.0,100.0,0
+D00505,Nordics,Public Tender,Consumable Bundle,3830.0,19.0,No,61.0,7.3,32.0,0
+D01067,Southern Europe,Group Purchasing Org,Machine,20983.0,14.5,No,3.0,7.1,76.0,0
+D00061,LATAM,Public Tender,Consumable Bundle,8359.0,22.8,No,57.0,4.1,29.0,1
+D00319,Southern Europe,Group Purchasing Org,Consumable Bundle,9443.0,20.9,No,62.0,8.0,92.0,1
+D00005,DACH,Public Tender,Machine,21831.0,31.7,Yes,7.0,4.6,60.0,1
+D00205,DACH,Group Purchasing Org,Consumable Bundle,13794.0,28.5,Yes,50.0,2.1,19.0,0
+D01038,Southern Europe,Independent Clinic,Machine,28732.0,12.3,No,7.0,9.6,104.0,1
+D01060,LATAM,Public Tender,Machine,29128.0,22.0,No,7.0,7.8,29.0,0
+D00307,Southern Europe,Group Purchasing Org,Consumable Bundle,4805.0,17.2,No,39.0,11.2,33.0,0
+D00141,Nordics,Group Purchasing Org,Machine,23027.0,20.1,No,6.0,7.9,54.0,1
+D00095,Southern Europe,Group Purchasing Org,Machine,37417.0,11.1,No,9.0,7.4,26.0,0
+D00928,APAC,Private Hospital Network,Machine,34632.0,26.4,Yes,5.0,1.6,89.0,1
+D00142,Nordics,Private Hospital Network,Machine,32210.0,22.0,Yes,19.0,4.0,56.0,0
+D00612,LATAM,Private Hospital Network,Consumable Bundle,10270.0,12.2,Yes,47.0,6.1,24.0,0
+D00467,LATAM,Public Tender,Consumable Bundle,2000.0,28.2,Yes,50.0,3.4,71.0,1
+D00758,APAC,Public Tender,Machine,29497.0,6.4,Yes,6.0,3.9,30.0,0
+D00397,APAC,Group Purchasing Org,Machine,27607.0,9.0,Yes,9.0,4.8,66.0,0
+D00059,DACH,Private Hospital Network,Machine,41132.0,22.5,Yes,10.0,10.3,57.0,0
+D01090,Southern Europe,Group Purchasing Org,Consumable Bundle,13583.0,5.4,Yes,46.0,4.7,30.0,1
+D00190,Southern Europe,Private Hospital Network,Machine,24259.0,18.6,Yes,6.0,,33.0,1
+D00025,LATAM,Private Hospital Network,Consumable Bundle,11057.0,15.0,No,51.0,4.2,60.0,0
+D00763,DACH,Group Purchasing Org,Machine,35079.0,17.4,Yes,10.0,,63.0,1
+D00747,Southern Europe,Private Hospital Network,Machine,33536.0,2.9,No,8.0,6.4,82.0,0
+D01099,APAC,Public Tender,Consumable Bundle,9380.0,21.7,Yes,49.0,4.9,84.0,0
+D00026,DACH,Private Hospital Network,Machine,40046.0,12.8,No,4.0,5.0,59.0,0
+D00172,Nordics,Private Hospital Network,Machine,25673.0,12.9,Yes,7.0,7.6,43.0,0
+D00229,LATAM,Public Tender,Consumable Bundle,10575.0,21.6,No,54.0,6.2,80.0,1
+D00473,DACH,Private Hospital Network,Machine,30840.0,24.0,Yes,4.0,10.0,56.0,0
+D00949,APAC,Public Tender,Consumable Bundle,11271.0,18.8,No,44.0,7.1,46.0,0
+D00131,DACH,Public Tender,Consumable Bundle,16908.0,19.0,Yes,43.0,11.8,78.0,0
+D00154,Nordics,Independent Clinic,Consumable Bundle,11774.0,8.9,Yes,44.0,6.0,84.0,0
+D00707,LATAM,Public Tender,Consumable Bundle,11962.0,19.0,No,70.0,5.2,54.0,0
+D00670,Southern Europe,Group Purchasing Org,Machine,36392.0,19.8,No,6.0,6.0,76.0,1
+D01056,LATAM,Group Purchasing Org,Consumable Bundle,13175.0,15.7,Yes,,4.1,90.0,0
+D00431,APAC,Private Hospital Network,Machine,34436.0,12.4,No,5.0,8.8,92.0,0
+D00099,DACH,Public Tender,Machine,37452.0,23.1,Yes,7.0,8.9,45.0,0
+D01066,APAC,Public Tender,Machine,28907.0,24.1,Yes,6.0,9.0,71.0,1
+D00076,Southern Europe,Independent Clinic,Machine,35852.0,11.0,No,8.0,6.9,93.0,0
+D00298,APAC,Group Purchasing Org,Machine,29814.0,17.1,Yes,6.0,7.2,46.0,1
+D00475,Southern Europe,Public Tender,Consumable Bundle,8222.0,20.7,Yes,57.0,4.5,53.0,0
+D00798,DACH,Public Tender,Machine,22504.0,18.1,No,8.0,0.9,49.0,0
+D00436,DACH,Private Hospital Network,Consumable Bundle,10038.0,21.2,No,47.0,4.9,44.0,1
+D00285,Nordics,Group Purchasing Org,Consumable Bundle,8204.0,12.2,Yes,57.0,9.9,79.0,1
+D00656,Southern Europe,Private Hospital Network,Consumable Bundle,11260.0,9.1,Yes,45.0,0.2,88.0,0
+D00704,APAC,Independent Clinic,Consumable Bundle,11974.0,21.7,Yes,61.0,13.3,72.0,1
+D00135,Nordics,Public Tender,Consumable Bundle,10136.0,9.9,No,49.0,13.0,71.0,1
+D00433,LATAM,Private Hospital Network,Consumable Bundle,12063.0,13.9,No,48.0,4.7,61.0,1
+D00995,APAC,Group Purchasing Org,Consumable Bundle,10260.0,16.4,No,52.0,11.3,70.0,0
+D00566,LATAM,Group Purchasing Org,Consumable Bundle,11178.0,4.3,No,54.0,3.7,88.0,1
+D00004,LATAM,Group Purchasing Org,Machine,36309.0,23.0,Yes,10.0,10.4,65.0,0
+D00853,APAC,Independent Clinic,Consumable Bundle,13681.0,23.9,Yes,50.0,11.8,79.0,0
+D00169,Southern Europe,Private Hospital Network,Machine,24670.0,16.4,No,3.0,8.7,57.0,0
+D01025,LATAM,Private Hospital Network,Machine,42260.0,22.8,No,7.0,8.1,25.0,1
+D00018,DACH,Independent Clinic,Consumable Bundle,9257.0,18.4,Yes,50.0,6.3,44.0,1
+D00376,DACH,Private Hospital Network,Consumable Bundle,11879.0,11.2,Yes,45.0,3.0,79.0,0
+D00027,Nordics,Private Hospital Network,Consumable Bundle,6056.0,8.8,Yes,46.0,2.8,68.0,0
+D00800,LATAM,Public Tender,Machine,25788.0,18.1,No,6.0,9.9,32.0,1
+D00650,DACH,Private Hospital Network,Machine,23049.0,14.5,No,6.0,9.6,66.0,0
+D00337,DACH,Public Tender,Consumable Bundle,8424.0,21.4,No,45.0,4.8,66.0,1
+D01078,Nordics,Group Purchasing Org,Consumable Bundle,5530.0,33.8,Yes,60.0,1.7,84.0,0
+D00849,DACH,Public Tender,Consumable Bundle,6631.0,36.6,Yes,55.0,9.3,66.0,1
+D00822,Nordics,Private Hospital Network,Consumable Bundle,14256.0,8.9,No,44.0,9.1,52.0,1
+D00062,Nordics,Independent Clinic,Consumable Bundle,8650.0,25.5,Yes,53.0,10.4,40.0,1
+D00206,DACH,Group Purchasing Org,Machine,20765.0,5.0,No,8.0,2.8,86.0,0
+D00672,Nordics,Independent Clinic,Consumable Bundle,8470.0,19.9,Yes,55.0,8.0,38.0,0
+D00084,DACH,Public Tender,Consumable Bundle,9334.0,19.0,Yes,48.0,6.8,42.0,0
+D01001,DACH,Independent Clinic,Consumable Bundle,14384.0,22.9,Yes,43.0,12.1,61.0,1
+D01089,Nordics,Public Tender,Machine,33722.0,17.2,Yes,4.0,13.7,75.0,0
+D00880,Nordics,Public Tender,Machine,29538.0,23.9,Yes,6.0,9.2,62.0,0
+D00524,LATAM,Public Tender,Machine,26912.0,24.3,No,9.0,6.6,28.0,1
+D00493,LATAM,Group Purchasing Org,Consumable Bundle,9058.0,17.8,Yes,49.0,8.0,71.0,0
+D00838,APAC,Independent Clinic,Machine,27435.0,12.1,Yes,6.0,8.1,49.0,0
+D00510,DACH,Private Hospital Network,Consumable Bundle,4657.0,4.5,Yes,53.0,2.3,81.0,0
+D00223,LATAM,Public Tender,Consumable Bundle,13228.0,12.9,No,65.0,3.8,71.0,0
+D00697,LATAM,Private Hospital Network,Consumable Bundle,12781.0,20.0,Yes,64.0,4.1,17.0,0
+D00421,LATAM,Public Tender,Consumable Bundle,10257.0,22.4,Yes,47.0,4.5,52.0,0
+D00263,Southern Europe,Independent Clinic,Machine,33859.0,22.2,Yes,5.0,10.3,33.0,0
+D00753,Southern Europe,Private Hospital Network,Machine,30223.0,14.2,No,12.0,1.7,87.0,0
+D00868,LATAM,Group Purchasing Org,Machine,26643.0,17.6,No,10.0,8.6,58.0,1
+D00855,DACH,Group Purchasing Org,Consumable Bundle,7502.0,4.1,Yes,46.0,6.2,76.0,1
+D00318,LATAM,Private Hospital Network,Machine,30922.0,17.5,Yes,4.0,1.8,87.0,1
+D00811,DACH,Public Tender,Machine,33132.0,16.6,Yes,9.0,7.2,74.0,0
+D00075,DACH,Private Hospital Network,Consumable Bundle,5700.0,9.4,Yes,51.0,6.2,80.0,0
+D00913,APAC,Public Tender,Consumable Bundle,10508.0,9.8,No,44.0,0.2,67.0,1
+D00326,LATAM,Private Hospital Network,Machine,26801.0,16.3,Yes,6.0,4.5,47.0,1
+D00713,APAC,Independent Clinic,Consumable Bundle,7187.0,1.5,Yes,58.0,4.0,78.0,0
+D00674,LATAM,Group Purchasing Org,Machine,27545.0,23.0,Yes,4.0,6.2,16.0,0
+D00836,Nordics,Public Tender,Consumable Bundle,9340.0,14.6,Yes,53.0,2.9,86.0,0
+D00225,Southern Europe,Private Hospital Network,Consumable Bundle,7043.0,14.3,No,46.0,7.7,62.0,0
+D01094,Southern Europe,Public Tender,Consumable Bundle,8724.0,20.5,No,51.0,4.0,74.0,1
+D00715,LATAM,Group Purchasing Org,Consumable Bundle,6128.0,25.7,No,42.0,10.2,119.0,1
+D00723,DACH,Private Hospital Network,Machine,18210.0,9.9,No,5.0,3.8,95.0,0
+D00218,DACH,Public Tender,Consumable Bundle,3942.0,22.2,No,60.0,6.1,98.0,1
+D00386,APAC,Public Tender,Consumable Bundle,10779.0,-29.4,Yes,51.0,3.8,36.0,0
+D00511,DACH,Public Tender,Consumable Bundle,7298.0,11.0,No,61.0,8.3,98.0,1
+D00583,DACH,Independent Clinic,Consumable Bundle,6614.0,5.5,No,43.0,4.7,40.0,0
+D00548,DACH,Independent Clinic,Machine,34943.0,12.8,No,8.0,9.0,74.0,0
+D00317,Southern Europe,Private Hospital Network,Machine,34464.0,20.8,Yes,12.0,0.2,10.0,1
+D00306,Nordics,Public Tender,Machine,42928.0,5.1,No,3.0,2.1,90.0,0
+D01013,Nordics,Public Tender,Consumable Bundle,12177.0,24.6,Yes,57.0,5.4,88.0,1
+D00358,LATAM,Private Hospital Network,Machine,32549.0,6.9,No,7.0,5.6,64.0,0
+D00802,Southern Europe,Public Tender,Consumable Bundle,10940.0,17.8,No,41.0,7.1,77.0,1
+D00793,Southern Europe,Private Hospital Network,Machine,38773.0,10.0,No,,7.9,82.0,0
+D00295,APAC,Group Purchasing Org,Consumable Bundle,11273.0,19.8,Yes,54.0,12.4,59.0,0
+D00884,Nordics,Public Tender,Consumable Bundle,8318.0,25.6,No,47.0,6.0,68.0,1
+D00111,Southern Europe,Independent Clinic,Consumable Bundle,12044.0,7.1,Yes,46.0,2.1,59.0,0
+D00948,APAC,Private Hospital Network,Consumable Bundle,7642.0,11.3,Yes,48.0,1.4,52.0,1
+D00591,APAC,Independent Clinic,Consumable Bundle,9807.0,8.1,Yes,45.0,7.0,34.0,0
+D00058,Nordics,Public Tender,Consumable Bundle,10924.0,18.1,Yes,48.0,6.6,61.0,0
+D00359,Nordics,Group Purchasing Org,Consumable Bundle,7636.0,13.9,Yes,45.0,3.8,43.0,1
+D00867,APAC,Independent Clinic,Machine,32431.0,22.9,No,8.0,9.3,25.0,0
+D00007,LATAM,Public Tender,Consumable Bundle,5924.0,19.9,No,44.0,10.1,75.0,0
+D00286,Southern Europe,Public Tender,Machine,35575.0,23.2,No,7.0,10.7,64.0,0
+D00588,Southern Europe,Private Hospital Network,Consumable Bundle,10571.0,18.6,No,47.0,4.7,70.0,1
+D01047,DACH,Public Tender,Machine,24421.0,19.5,Yes,5.0,4.8,44.0,1
+D00139,LATAM,Public Tender,Consumable Bundle,7649.0,10.1,No,55.0,5.5,21.0,1
+D00164,DACH,Group Purchasing Org,Consumable Bundle,10783.0,15.9,Yes,52.0,3.0,44.0,0
+D00926,Southern Europe,Private Hospital Network,Machine,29229.0,16.3,No,7.0,0.7,70.0,1
+D00599,APAC,Group Purchasing Org,Consumable Bundle,5555.0,20.7,Yes,46.0,1.9,52.0,1
+D00568,DACH,Public Tender,Consumable Bundle,6194.0,19.5,No,55.0,8.3,65.0,1
+D01096,Southern Europe,Group Purchasing Org,Consumable Bundle,12329.0,23.4,Yes,55.0,6.9,31.0,1
+D00044,Southern Europe,Group Purchasing Org,Machine,29809.0,19.2,Yes,6.0,7.8,76.0,1
+D00717,Nordics,Independent Clinic,Machine,29870.0,16.1,Yes,5.0,6.4,68.0,0
+D00745,Nordics,Public Tender,Machine,24757.0,30.5,Yes,5.0,7.8,40.0,1
+D00064,LATAM,Public Tender,Machine,29157.0,12.1,No,10.0,5.3,44.0,1
+D00653,LATAM,Group Purchasing Org,Consumable Bundle,11185.0,11.6,Yes,50.0,5.4,50.0,0
+D00862,LATAM,Private Hospital Network,Consumable Bundle,11350.0,21.4,No,45.0,5.6,68.0,0
+D00447,APAC,Public Tender,Consumable Bundle,2000.0,32.7,Yes,50.0,3.2,30.0,1
+D00039,DACH,Public Tender,Machine,43283.0,17.2,Yes,8.0,0.2,59.0,0
+D01027,APAC,Private Hospital Network,Consumable Bundle,10389.0,15.9,Yes,41.0,5.4,57.0,1
+D00934,LATAM,Private Hospital Network,Machine,39367.0,20.9,No,9.0,0.8,56.0,1
+D00329,LATAM,Independent Clinic,Consumable Bundle,8156.0,20.9,No,39.0,3.1,16.0,1
+D00020,LATAM,Group Purchasing Org,Machine,35396.0,24.0,Yes,5.0,0.2,23.0,1
+D00375,DACH,Private Hospital Network,Consumable Bundle,9524.0,16.5,No,53.0,7.8,43.0,0
+D01082,APAC,Group Purchasing Org,Machine,33817.0,13.6,No,9.0,,45.0,1
+D00508,APAC,Public Tender,Machine,51917.0,16.5,Yes,6.0,9.7,23.0,0
+D00837,LATAM,Private Hospital Network,Consumable Bundle,5059.0,16.9,Yes,59.0,1.8,44.0,1
+D00891,Southern Europe,Public Tender,Consumable Bundle,7358.0,29.7,No,52.0,9.9,57.0,1
+D00816,APAC,Public Tender,Consumable Bundle,8954.0,24.8,No,42.0,6.5,66.0,1
+D00860,Nordics,Independent Clinic,Machine,39183.0,15.7,Yes,5.0,3.6,68.0,1
+D00138,Nordics,Private Hospital Network,Machine,33509.0,16.7,Yes,11.0,6.4,43.0,0
+D00410,APAC,Independent Clinic,Machine,30800.0,13.0,No,7.0,,83.0,1
+D00186,LATAM,Group Purchasing Org,Consumable Bundle,8713.0,22.5,No,57.0,7.4,73.0,1
+D00786,Southern Europe,Private Hospital Network,Machine,34531.0,10.2,Yes,7.0,5.8,29.0,1
+D00632,APAC,Public Tender,Consumable Bundle,9740.0,14.8,No,43.0,0.2,76.0,0
+D00944,Southern Europe,Group Purchasing Org,Machine,31341.0,11.3,Yes,10.0,10.4,102.0,1
+D00918,DACH,Public Tender,Consumable Bundle,11866.0,21.7,No,49.0,5.4,71.0,1
+D00685,LATAM,Public Tender,Consumable Bundle,10406.0,13.7,No,51.0,3.6,75.0,1
+D00424,DACH,Independent Clinic,Consumable Bundle,6348.0,17.4,Yes,59.0,3.1,27.0,1
+D00610,Southern Europe,Public Tender,Machine,42018.0,16.2,No,6.0,,71.0,1
+D00597,LATAM,Public Tender,Consumable Bundle,11984.0,7.8,Yes,59.0,7.5,29.0,0
+D00652,APAC,Public Tender,Consumable Bundle,9945.0,30.3,Yes,41.0,2.5,45.0,1
+D00890,LATAM,Public Tender,Consumable Bundle,11112.0,28.6,Yes,46.0,10.0,76.0,1
+D00149,Southern Europe,Group Purchasing Org,Machine,27913.0,20.7,No,6.0,9.1,67.0,0
+D00965,APAC,Private Hospital Network,Consumable Bundle,14812.0,16.5,No,53.0,5.7,57.0,0
+D00683,DACH,Public Tender,Consumable Bundle,10774.0,32.7,Yes,46.0,3.0,50.0,1
+D00801,LATAM,Independent Clinic,Consumable Bundle,13945.0,12.2,Yes,42.0,10.5,48.0,1
+D00565,LATAM,Group Purchasing Org,Machine,28550.0,14.0,No,2.0,1.3,103.0,0
+D00368,LATAM,Public Tender,Machine,44607.0,15.3,Yes,2.0,0.2,89.0,0
+D00667,APAC,Group Purchasing Org,Machine,22105.0,9.3,No,11.0,8.4,72.0,1
+D00772,Nordics,Private Hospital Network,Consumable Bundle,12727.0,19.1,No,45.0,,79.0,1
+D00504,Nordics,Group Purchasing Org,Consumable Bundle,13352.0,20.5,Yes,,7.6,56.0,0
+D00233,APAC,Private Hospital Network,Consumable Bundle,10887.0,12.0,Yes,44.0,10.0,26.0,0
+D00935,LATAM,Public Tender,Consumable Bundle,10217.0,13.0,No,57.0,7.5,38.0,0
+D00340,APAC,Group Purchasing Org,Consumable Bundle,17062.0,14.9,Yes,48.0,5.2,41.0,1
+D00159,LATAM,Private Hospital Network,Consumable Bundle,10188.0,7.7,Yes,56.0,1.2,51.0,1
+D00257,APAC,Private Hospital Network,Consumable Bundle,11904.0,25.4,No,,13.0,59.0,1
+D00624,Nordics,Private Hospital Network,Consumable Bundle,9424.0,19.0,No,57.0,5.0,80.0,0
+D00097,Southern Europe,Public Tender,Consumable Bundle,11796.0,21.8,No,56.0,9.6,88.0,1
+D01068,LATAM,Private Hospital Network,Consumable Bundle,4643.0,7.4,Yes,40.0,0.2,75.0,0
+D00309,Southern Europe,Group Purchasing Org,Consumable Bundle,5967.0,17.3,No,56.0,8.4,59.0,0
+D00463,APAC,Group Purchasing Org,Machine,34992.0,28.8,No,5.0,6.0,36.0,1
+D00519,DACH,Group Purchasing Org,Machine,36423.0,0.3,No,4.0,2.4,53.0,1
+D00895,LATAM,Private Hospital Network,Consumable Bundle,11305.0,19.9,No,45.0,11.0,85.0,0
+D00404,DACH,Private Hospital Network,Consumable Bundle,10475.0,11.7,Yes,54.0,8.1,82.0,0
+D00910,Southern Europe,Independent Clinic,Consumable Bundle,7622.0,4.3,Yes,59.0,8.9,53.0,0
+D01057,APAC,Public Tender,Machine,14226.0,14.0,No,3.0,0.5,72.0,1
+D00250,Southern Europe,Public Tender,Consumable Bundle,12633.0,16.0,Yes,41.0,6.0,56.0,0
+D00453,LATAM,Private Hospital Network,Consumable Bundle,5582.0,10.1,No,52.0,3.7,55.0,0
+D00016,DACH,Public Tender,Machine,39796.0,18.0,No,7.0,0.5,51.0,1
+D00160,LATAM,Group Purchasing Org,Machine,31486.0,13.7,No,5.0,0.6,30.0,0
+D00595,DACH,Independent Clinic,Consumable Bundle,12418.0,13.0,Yes,55.0,8.4,42.0,0
+D00571,Southern Europe,Private Hospital Network,Machine,30801.0,5.2,Yes,6.0,11.0,68.0,0
+D00049,LATAM,Private Hospital Network,Machine,29360.0,11.7,Yes,6.0,5.8,7.0,0
+D00474,DACH,Group Purchasing Org,Consumable Bundle,8158.0,19.6,No,49.0,3.5,26.0,1
+D00380,LATAM,Private Hospital Network,Consumable Bundle,11676.0,12.1,Yes,56.0,4.0,68.0,1
+D00492,LATAM,Public Tender,Machine,37384.0,18.3,Yes,5.0,2.0,62.0,0
+D00797,DACH,Independent Clinic,Consumable Bundle,5232.0,12.1,Yes,43.0,3.1,53.0,0
+D00664,DACH,Public Tender,Machine,30165.0,28.9,No,5.0,6.0,59.0,0
+D00373,Southern Europe,Public Tender,Consumable Bundle,9218.0,19.2,No,64.0,4.4,69.0,0
+D00705,Southern Europe,Independent Clinic,Machine,26711.0,12.7,Yes,6.0,7.7,73.0,0
+D00698,Nordics,Public Tender,Machine,24289.0,23.7,Yes,8.0,7.4,71.0,0
+D00450,LATAM,Public Tender,Consumable Bundle,8789.0,10.3,No,61.0,,56.0,1
+D00416,Southern Europe,Public Tender,Consumable Bundle,8688.0,14.5,Yes,54.0,4.2,122.0,1
+D00128,DACH,Private Hospital Network,Machine,37780.0,17.4,No,2.0,3.4,61.0,0
+D00559,Nordics,Private Hospital Network,Consumable Bundle,8665.0,18.2,Yes,52.0,4.8,39.0,0
+D00512,APAC,Independent Clinic,Machine,28584.0,7.3,No,7.0,,96.0,0
+D00787,APAC,Public Tender,Machine,33795.0,25.3,No,5.0,3.0,65.0,0
+D00238,LATAM,Independent Clinic,Consumable Bundle,10455.0,12.4,Yes,57.0,5.2,105.0,1
+D00168,APAC,Group Purchasing Org,Machine,26430.0,22.6,Yes,9.0,8.5,55.0,1
+D00893,Southern Europe,Private Hospital Network,Consumable Bundle,13089.0,10.8,Yes,48.0,5.7,78.0,1
+D00523,DACH,Group Purchasing Org,Machine,38300.0,11.7,Yes,2.0,2.8,24.0,0
+D00081,LATAM,Independent Clinic,Consumable Bundle,13310.0,8.3,No,58.0,2.8,93.0,1
+D00872,DACH,Group Purchasing Org,Consumable Bundle,9714.0,9.5,Yes,51.0,4.6,38.0,0
+D00301,LATAM,Private Hospital Network,Machine,42977.0,15.2,Yes,7.0,11.1,63.0,1
+D00774,APAC,Group Purchasing Org,Consumable Bundle,6659.0,12.5,Yes,55.0,9.7,83.0,0
+D00325,APAC,Private Hospital Network,Consumable Bundle,8791.0,13.2,Yes,53.0,5.1,84.0,0
+D00345,LATAM,Public Tender,Consumable Bundle,7139.0,18.9,No,54.0,1.8,58.0,1
+D00216,LATAM,Independent Clinic,Machine,45876.0,11.5,No,6.0,5.0,91.0,1
+D00398,Southern Europe,Independent Clinic,Machine,25816.0,14.9,Yes,7.0,,50.0,0
+D00031,LATAM,Group Purchasing Org,Machine,34394.0,20.4,Yes,8.0,5.4,43.0,0
+D00243,DACH,Private Hospital Network,Machine,18728.0,12.9,No,5.0,6.8,44.0,0
+D00596,Southern Europe,Private Hospital Network,Consumable Bundle,8488.0,13.4,No,56.0,1.4,78.0,0
+D00737,DACH,Public Tender,Machine,41382.0,14.2,No,,3.3,103.0,1
+D00883,APAC,Group Purchasing Org,Consumable Bundle,6498.0,14.9,No,48.0,7.4,73.0,1
+D00558,Nordics,Group Purchasing Org,Consumable Bundle,7615.0,15.8,Yes,39.0,1.9,78.0,1
+D00418,LATAM,Group Purchasing Org,Consumable Bundle,9186.0,16.9,No,40.0,7.9,71.0,0
+D00633,DACH,Independent Clinic,Consumable Bundle,3125.0,7.7,Yes,35.0,2.8,57.0,0
+D00777,LATAM,Public Tender,Consumable Bundle,14319.0,13.0,No,56.0,2.3,83.0,0
+D00028,DACH,Independent Clinic,Machine,22164.0,24.5,Yes,14.0,7.5,35.0,1
+D00351,LATAM,Group Purchasing Org,Consumable Bundle,13463.0,18.9,Yes,60.0,,52.0,1
+D00123,DACH,Group Purchasing Org,Machine,33243.0,22.9,Yes,7.0,10.8,36.0,0
+D00927,DACH,Group Purchasing Org,Consumable Bundle,13779.0,12.1,No,47.0,10.8,58.0,1
+D01030,Southern Europe,Public Tender,Consumable Bundle,9486.0,17.9,Yes,53.0,5.3,50.0,0
+D01037,Southern Europe,Private Hospital Network,Consumable Bundle,9913.0,19.8,Yes,36.0,9.5,14.0,0
+D00795,DACH,Private Hospital Network,Consumable Bundle,11462.0,9.8,Yes,55.0,9.7,38.0,0
+D00678,Nordics,Private Hospital Network,Machine,21344.0,10.6,Yes,8.0,2.6,70.0,0
+D00686,Southern Europe,Group Purchasing Org,Machine,41468.0,15.4,Yes,13.0,5.3,64.0,0
+D00203,Nordics,Independent Clinic,Consumable Bundle,10066.0,0.0,Yes,49.0,0.2,48.0,0
+D01086,LATAM,Public Tender,Consumable Bundle,11832.0,14.1,Yes,34.0,5.1,55.0,1
+D00272,DACH,Group Purchasing Org,Consumable Bundle,8421.0,18.5,Yes,47.0,7.5,74.0,0
+D01043,LATAM,Independent Clinic,Consumable Bundle,14944.0,14.9,Yes,51.0,12.6,66.0,0
+D00554,APAC,Public Tender,Machine,31502.0,14.7,No,9.0,2.3,77.0,0
+D00278,Nordics,Group Purchasing Org,Machine,36451.0,20.6,No,2.0,8.2,25.0,1
+D00958,Nordics,Private Hospital Network,Machine,22081.0,18.4,No,3.0,9.2,70.0,0
+D01004,DACH,Group Purchasing Org,Consumable Bundle,11080.0,24.5,Yes,52.0,6.0,64.0,0
+D00515,Southern Europe,Group Purchasing Org,Consumable Bundle,10711.0,20.7,Yes,50.0,9.0,7.0,0
+D00973,DACH,Public Tender,Consumable Bundle,9374.0,10.4,Yes,63.0,8.8,81.0,1
+D00813,APAC,Group Purchasing Org,Consumable Bundle,10884.0,9.1,No,48.0,10.2,32.0,0
+D00148,Nordics,Public Tender,Consumable Bundle,14857.0,8.6,No,53.0,,48.0,0
+D00300,LATAM,Private Hospital Network,Consumable Bundle,15019.0,14.9,No,68.0,6.2,58.0,1
+D00494,Southern Europe,Private Hospital Network,Consumable Bundle,11242.0,16.7,Yes,58.0,9.7,59.0,0
+D00994,DACH,Public Tender,Consumable Bundle,3705.0,29.3,Yes,36.0,3.7,16.0,1
+D00644,DACH,Group Purchasing Org,Machine,34205.0,10.1,No,5.0,9.1,41.0,0
+D00178,APAC,Public Tender,Consumable Bundle,5577.0,21.8,No,39.0,5.9,42.0,1
+D01021,APAC,Public Tender,Machine,31811.0,28.3,Yes,7.0,8.2,58.0,1
+D00052,DACH,Group Purchasing Org,Consumable Bundle,4959.0,11.7,Yes,72.0,9.6,53.0,0
+D00484,Southern Europe,Public Tender,Consumable Bundle,7795.0,22.3,Yes,51.0,2.3,51.0,0
+D00972,DACH,Private Hospital Network,Consumable Bundle,7279.0,21.0,Yes,44.0,7.7,45.0,1
+D00563,APAC,Independent Clinic,Machine,32298.0,11.1,Yes,6.0,7.3,41.0,0
+D00023,APAC,Group Purchasing Org,Machine,22551.0,16.8,No,8.0,9.8,79.0,0
+D01098,APAC,Private Hospital Network,Consumable Bundle,8965.0,20.4,No,54.0,5.2,52.0,0
+D00943,DACH,Independent Clinic,Consumable Bundle,3490.0,8.0,Yes,50.0,3.6,48.0,0
+D01054,DACH,Independent Clinic,Consumable Bundle,8748.0,10.7,Yes,,6.3,102.0,0
+D00408,APAC,Private Hospital Network,Machine,27430.0,15.2,Yes,9.0,6.6,37.0,0
+D00464,Southern Europe,Group Purchasing Org,Machine,50385.0,22.4,No,4.0,8.8,57.0,0
+D00969,Nordics,Public Tender,Machine,24977.0,17.9,No,12.0,5.6,67.0,0
+D00210,Nordics,Group Purchasing Org,Consumable Bundle,9477.0,16.9,No,51.0,1.0,52.0,1
+D00409,DACH,Public Tender,Consumable Bundle,2778.0,13.1,Yes,39.0,0.2,97.0,1
+D00143,APAC,Private Hospital Network,Consumable Bundle,8555.0,6.7,Yes,42.0,1.1,34.0,0
+D00051,DACH,Public Tender,Consumable Bundle,2892.0,11.6,Yes,46.0,3.7,43.0,0
+D00352,DACH,Independent Clinic,Consumable Bundle,10646.0,14.7,No,54.0,3.3,82.0,0
+D00167,APAC,Public Tender,Machine,19914.0,19.0,Yes,6.0,3.1,33.0,1
+D00740,Southern Europe,Independent Clinic,Machine,30324.0,23.7,No,6.0,1.2,63.0,0
+D00621,LATAM,Public Tender,Machine,15661.0,17.6,No,10.0,5.4,74.0,1
+D00082,Southern Europe,Public Tender,Machine,35393.0,14.9,Yes,10.0,8.4,54.0,0
+D00675,Nordics,Independent Clinic,Machine,34247.0,13.7,No,6.0,3.5,19.0,0
+D00322,Nordics,Private Hospital Network,Consumable Bundle,9324.0,99.0,Yes,50.0,7.3,66.0,1
+D00954,DACH,Group Purchasing Org,Machine,17301.0,18.9,Yes,10.0,12.5,62.0,1
+D01050,Southern Europe,Public Tender,Consumable Bundle,9727.0,7.6,No,42.0,6.5,30.0,0
+D00509,Nordics,Private Hospital Network,Machine,29376.0,13.9,Yes,6.0,5.3,98.0,1
+D00067,Nordics,Group Purchasing Org,Consumable Bundle,13343.0,2.9,Yes,68.0,7.6,56.0,0
+D00335,DACH,Public Tender,Consumable Bundle,6665.0,0.0,Yes,52.0,7.9,89.0,0
+D00971,Southern Europe,Group Purchasing Org,Consumable Bundle,13886.0,15.5,No,55.0,4.9,70.0,0
+D00776,APAC,Independent Clinic,Consumable Bundle,6867.0,22.9,No,45.0,3.5,40.0,0
+D00290,DACH,Public Tender,Consumable Bundle,7848.0,8.9,Yes,46.0,5.4,38.0,0
+D00741,DACH,Public Tender,Consumable Bundle,10574.0,21.3,Yes,45.0,3.1,34.0,0
+D00396,Southern Europe,Independent Clinic,Consumable Bundle,2000.0,11.7,Yes,50.0,6.3,72.0,0
+D00839,Southern Europe,Public Tender,Machine,27601.0,14.1,Yes,8.0,9.3,57.0,0
+D00284,Southern Europe,Group Purchasing Org,Machine,35821.0,18.0,No,8.0,3.4,85.0,0
+D00832,Nordics,Independent Clinic,Machine,38061.0,7.0,Yes,5.0,,86.0,1
+D00552,DACH,Public Tender,Consumable Bundle,12311.0,15.6,Yes,55.0,5.5,60.0,1
+D00362,DACH,Private Hospital Network,Consumable Bundle,5651.0,17.2,Yes,54.0,8.2,57.0,0
+D01070,Southern Europe,Private Hospital Network,Machine,32523.0,14.7,Yes,7.0,2.7,57.0,0
+D00065,LATAM,Public Tender,Consumable Bundle,14291.0,13.7,No,54.0,9.4,38.0,0
+D01033,Nordics,Group Purchasing Org,Consumable Bundle,9327.0,18.6,Yes,49.0,2.1,89.0,0
+D00759,DACH,Public Tender,Machine,22426.0,15.7,Yes,9.0,,71.0,1
+D00265,APAC,Private Hospital Network,Machine,30339.0,8.6,No,4.0,10.3,82.0,1
+D00762,DACH,Group Purchasing Org,Consumable Bundle,6572.0,18.4,No,44.0,2.7,58.0,0
+D00831,LATAM,Independent Clinic,Consumable Bundle,6873.0,19.6,Yes,44.0,3.2,88.0,1
+D00598,LATAM,Independent Clinic,Machine,31554.0,13.1,Yes,,7.9,49.0,0
+D00021,LATAM,Independent Clinic,Machine,34359.0,9.8,No,5.0,0.2,76.0,1
+D00066,Nordics,Group Purchasing Org,Machine,30480.0,15.5,Yes,10.0,9.4,45.0,0
+D01074,APAC,Public Tender,Consumable Bundle,4211.0,20.7,No,59.0,8.6,97.0,1
+D01029,LATAM,Public Tender,Consumable Bundle,7019.0,20.0,No,48.0,8.2,56.0,0
+D00819,LATAM,Independent Clinic,Machine,21896.0,21.4,Yes,7.0,0.2,89.0,0
+D00297,APAC,Private Hospital Network,Consumable Bundle,9374.0,18.8,Yes,55.0,8.2,55.0,1
+D00603,APAC,Private Hospital Network,Machine,33617.0,10.1,No,6.0,1.6,18.0,1
+D00420,APAC,Public Tender,Consumable Bundle,8936.0,26.6,No,58.0,6.0,21.0,0
+D00627,LATAM,Private Hospital Network,Consumable Bundle,7011.0,11.6,Yes,65.0,8.6,34.0,0
+D00790,LATAM,Private Hospital Network,Consumable Bundle,14439.0,18.6,No,48.0,0.4,72.0,0
+D00262,APAC,Private Hospital Network,Consumable Bundle,11018.0,23.2,No,51.0,7.5,39.0,0
+D00308,LATAM,Public Tender,Consumable Bundle,6811.0,26.2,No,52.0,5.9,25.0,1
+D00770,LATAM,Group Purchasing Org,Machine,36213.0,14.3,Yes,8.0,4.4,64.0,0
+D00592,Southern Europe,Group Purchasing Org,Machine,31560.0,23.2,No,7.0,6.9,67.0,1
+D00458,Southern Europe,Private Hospital Network,Consumable Bundle,6949.0,13.7,No,42.0,10.0,87.0,0
+D00668,APAC,Public Tender,Consumable Bundle,7808.0,16.0,Yes,46.0,6.4,40.0,0
+D00542,Nordics,Public Tender,Consumable Bundle,6802.0,13.2,No,58.0,6.3,59.0,1
+D00579,APAC,Group Purchasing Org,Machine,34108.0,20.6,No,3.0,1.6,35.0,0
+D00976,LATAM,Private Hospital Network,Machine,26336.0,20.5,No,9.0,6.6,61.0,0
+D00189,LATAM,Private Hospital Network,Consumable Bundle,7254.0,22.7,No,46.0,3.1,53.0,1
+D00755,LATAM,Group Purchasing Org,Consumable Bundle,7443.0,10.5,Yes,48.0,5.6,55.0,0
+D00252,APAC,Group Purchasing Org,Consumable Bundle,6806.0,7.1,Yes,56.0,5.4,7.0,0
+D00072,Southern Europe,Independent Clinic,Consumable Bundle,9698.0,10.4,Yes,54.0,1.9,87.0,1
+D00102,LATAM,Private Hospital Network,Consumable Bundle,10012.0,16.7,No,52.0,5.0,76.0,1
+D00200,Southern Europe,Private Hospital Network,Consumable Bundle,12618.0,11.1,Yes,65.0,6.6,51.0,0
+D00485,DACH,Independent Clinic,Machine,30052.0,22.2,No,7.0,7.6,65.0,0
+D00857,LATAM,Private Hospital Network,Consumable Bundle,9260.0,29.4,Yes,50.0,3.3,31.0,1
+D00858,APAC,Public Tender,Machine,32545.0,21.7,No,4.0,7.2,51.0,0
+D00620,DACH,Group Purchasing Org,Consumable Bundle,9016.0,21.7,Yes,50.0,3.0,84.0,0
+D00732,DACH,Group Purchasing Org,Machine,26681.0,7.0,No,9.0,,17.0,1
+D00152,APAC,Public Tender,Consumable Bundle,10273.0,20.4,No,56.0,6.2,51.0,1
+D00863,LATAM,Private Hospital Network,Machine,19986.0,99.0,No,,8.2,51.0,1
+D00331,LATAM,Group Purchasing Org,Consumable Bundle,9249.0,18.4,Yes,47.0,8.0,61.0,1
+D00274,Nordics,Group Purchasing Org,Consumable Bundle,13042.0,13.3,Yes,57.0,7.5,49.0,0
+D01041,DACH,Group Purchasing Org,Consumable Bundle,15484.0,9.6,Yes,44.0,5.5,39.0,1
+D00385,Southern Europe,Independent Clinic,Machine,31728.0,7.9,No,6.0,11.9,77.0,1
+D00806,DACH,Private Hospital Network,Consumable Bundle,6690.0,14.1,No,52.0,9.5,77.0,0
+D00452,APAC,Private Hospital Network,Consumable Bundle,6950.0,11.0,No,48.0,5.2,29.0,1
+D00366,Southern Europe,Independent Clinic,Machine,31653.0,20.8,No,11.0,7.7,72.0,0
+D00282,DACH,Public Tender,Machine,30731.0,24.1,No,6.0,2.6,50.0,1
+D00956,APAC,Private Hospital Network,Machine,40432.0,11.7,Yes,12.0,3.6,67.0,1
+D00886,Southern Europe,Group Purchasing Org,Machine,35911.0,20.4,Yes,14.0,7.0,68.0,0
+D00412,LATAM,Public Tender,Consumable Bundle,7157.0,23.6,Yes,54.0,5.6,68.0,0
+D00725,DACH,Independent Clinic,Machine,31719.0,21.7,No,6.0,4.3,39.0,0
+D00899,DACH,Group Purchasing Org,Machine,34497.0,14.0,No,5.0,5.6,69.0,0
+D01048,LATAM,Group Purchasing Org,Consumable Bundle,9303.0,18.0,Yes,45.0,3.3,25.0,1
+D00569,Southern Europe,Public Tender,Consumable Bundle,6999.0,16.1,No,48.0,6.6,48.0,0
+D00799,LATAM,Public Tender,Consumable Bundle,9251.0,22.6,No,41.0,8.5,86.0,1
+D00150,DACH,Group Purchasing Org,Machine,31942.0,23.7,No,6.0,5.0,44.0,1
+D00483,Nordics,Private Hospital Network,Machine,36179.0,8.8,Yes,3.0,6.0,40.0,0
+D00208,LATAM,Independent Clinic,Machine,29614.0,0.0,Yes,6.0,4.3,70.0,0
+D00916,APAC,Private Hospital Network,Consumable Bundle,12047.0,12.5,Yes,58.0,7.0,53.0,0
+D00219,APAC,Independent Clinic,Machine,29386.0,24.5,No,7.0,7.6,64.0,0
+D00240,DACH,Private Hospital Network,Consumable Bundle,11004.0,20.0,No,45.0,7.4,75.0,0
+D00614,APAC,Group Purchasing Org,Machine,29769.0,12.2,Yes,6.0,6.7,85.0,0
+D00356,Nordics,Public Tender,Consumable Bundle,14342.0,16.3,Yes,57.0,0.9,69.0,0
+D00619,DACH,Independent Clinic,Consumable Bundle,7229.0,5.9,Yes,53.0,3.2,69.0,0
+D00193,DACH,Private Hospital Network,Machine,38611.0,13.4,No,7.0,4.6,50.0,0
+D00281,DACH,Private Hospital Network,Consumable Bundle,10069.0,15.4,No,43.0,10.3,25.0,1
+D00192,Southern Europe,Independent Clinic,Consumable Bundle,11927.0,13.4,No,53.0,1.0,74.0,0
+D00488,DACH,Private Hospital Network,Consumable Bundle,9448.0,17.4,Yes,50.0,7.8,31.0,1
+D00514,Southern Europe,Private Hospital Network,Machine,27289.0,15.5,Yes,6.0,5.6,39.0,0
+D00959,Nordics,Public Tender,Consumable Bundle,12225.0,11.0,Yes,48.0,0.2,27.0,1
+D00796,Southern Europe,Public Tender,Consumable Bundle,10014.0,26.9,Yes,43.0,10.0,76.0,0
+D00133,Nordics,Public Tender,Consumable Bundle,8697.0,21.0,No,46.0,15.1,72.0,1
+D00986,APAC,Public Tender,Machine,32239.0,28.5,No,7.0,12.1,65.0,1
+D00981,APAC,Private Hospital Network,Consumable Bundle,14912.0,19.0,Yes,55.0,7.9,65.0,1
+D00253,Southern Europe,Public Tender,Consumable Bundle,2185.0,20.3,No,51.0,6.7,42.0,0
+D00792,Southern Europe,Independent Clinic,Consumable Bundle,11910.0,13.9,Yes,47.0,5.4,52.0,0
+D00604,LATAM,Independent Clinic,Consumable Bundle,13987.0,19.1,No,46.0,,49.0,0
+D00264,DACH,Public Tender,Consumable Bundle,4380.0,21.6,Yes,57.0,0.2,53.0,1
+D00071,DACH,Private Hospital Network,Consumable Bundle,10251.0,16.1,No,43.0,1.7,75.0,0
+D00273,DACH,Private Hospital Network,Consumable Bundle,10491.0,11.6,No,38.0,7.8,75.0,1
+D00113,Southern Europe,Private Hospital Network,Machine,35416.0,0.7,No,9.0,4.8,32.0,0
+D00328,Nordics,Public Tender,Consumable Bundle,10781.0,24.7,No,46.0,13.7,56.0,1
+D00116,APAC,Private Hospital Network,Machine,29563.0,14.8,Yes,,10.9,30.0,0
+D00324,Nordics,Private Hospital Network,Consumable Bundle,10010.0,9.6,Yes,53.0,7.8,68.0,1
+D01079,LATAM,Public Tender,Machine,27837.0,22.5,Yes,9.0,14.9,22.0,0
+D00783,Southern Europe,Private Hospital Network,Machine,35288.0,9.4,Yes,13.0,7.9,88.0,1
+D00587,DACH,Private Hospital Network,Consumable Bundle,11001.0,18.2,No,50.0,5.4,61.0,1
+D00545,DACH,Public Tender,Machine,37253.0,27.2,No,,,75.0,0
+D00730,Nordics,Private Hospital Network,Consumable Bundle,9594.0,24.6,Yes,50.0,7.2,88.0,1
+D00907,Nordics,Private Hospital Network,Machine,26634.0,15.0,No,9.0,6.1,59.0,0
+D00564,LATAM,Public Tender,Machine,44469.0,19.1,Yes,6.0,3.4,78.0,0
+D00854,APAC,Group Purchasing Org,Consumable Bundle,4278.0,22.8,Yes,45.0,9.3,101.0,1
+D00752,Southern Europe,Group Purchasing Org,Consumable Bundle,10746.0,12.4,Yes,59.0,8.2,71.0,1
+D00438,Nordics,Independent Clinic,Machine,28994.0,7.8,Yes,9.0,9.7,56.0,0
+D00659,Nordics,Group Purchasing Org,Consumable Bundle,15202.0,10.4,Yes,39.0,0.2,66.0,0
+D00570,Nordics,Group Purchasing Org,Consumable Bundle,6935.0,11.2,Yes,51.0,9.3,57.0,0
+D00479,LATAM,Group Purchasing Org,Consumable Bundle,12422.0,17.8,Yes,57.0,6.3,50.0,1
+D00738,Southern Europe,Private Hospital Network,Machine,35619.0,14.4,No,6.0,10.9,54.0,1
+D00279,APAC,Independent Clinic,Machine,23667.0,14.1,Yes,3.0,11.4,64.0,1
+D00921,DACH,Independent Clinic,Machine,19113.0,21.1,Yes,7.0,5.3,72.0,0
+D00766,DACH,Group Purchasing Org,Consumable Bundle,10414.0,16.0,Yes,52.0,2.3,68.0,0
+D00003,APAC,Independent Clinic,Consumable Bundle,10916.0,14.6,Yes,50.0,6.2,69.0,0
+D00230,DACH,Public Tender,Consumable Bundle,14843.0,14.7,Yes,44.0,5.4,61.0,0
+D00586,LATAM,Public Tender,Consumable Bundle,7174.0,8.2,No,52.0,6.2,54.0,1
+D01063,Southern Europe,Private Hospital Network,Machine,27240.0,13.8,No,8.0,8.7,78.0,0
+D00960,Nordics,Public Tender,Machine,31797.0,21.1,Yes,10.0,5.8,40.0,1
+D01011,LATAM,Private Hospital Network,Machine,36197.0,15.2,No,6.0,4.6,56.0,1
+D00372,Southern Europe,Public Tender,Consumable Bundle,11649.0,31.6,Yes,57.0,5.2,80.0,1
+D01014,APAC,Independent Clinic,Consumable Bundle,10445.0,18.7,Yes,,1.3,44.0,0
+D00826,DACH,Public Tender,Machine,38226.0,16.4,Yes,10.0,7.0,95.0,0
+D01018,APAC,Public Tender,Machine,24660.0,25.4,Yes,12.0,11.5,109.0,0
+D00871,LATAM,Private Hospital Network,Machine,19648.0,2.8,Yes,7.0,11.2,58.0,0
+D00998,DACH,Private Hospital Network,Machine,54897.0,0.0,Yes,5.0,0.7,90.0,0
+D00701,Southern Europe,Independent Clinic,Machine,38219.0,5.3,No,3.0,3.6,76.0,1
+D00784,LATAM,Independent Clinic,Consumable Bundle,8720.0,20.2,Yes,44.0,6.0,49.0,1
+D00817,APAC,Independent Clinic,Consumable Bundle,2000.0,13.8,No,50.0,4.8,54.0,1
+D00756,DACH,Group Purchasing Org,Machine,34292.0,17.2,Yes,9.0,9.1,78.0,0
+D00038,Nordics,Private Hospital Network,Machine,34314.0,7.6,No,5.0,4.6,71.0,1
+D00354,Nordics,Group Purchasing Org,Consumable Bundle,6681.0,24.9,Yes,48.0,1.4,59.0,1
+D00914,APAC,Private Hospital Network,Consumable Bundle,7291.0,21.5,No,47.0,12.0,53.0,0
+D00237,Nordics,Public Tender,Consumable Bundle,7298.0,19.5,No,50.0,0.2,66.0,0
+D00794,DACH,Public Tender,Consumable Bundle,7377.0,23.4,Yes,44.0,9.5,46.0,1
+D00500,Nordics,Public Tender,Consumable Bundle,11774.0,10.4,No,51.0,4.9,66.0,0
+D00056,LATAM,Public Tender,Consumable Bundle,15334.0,22.0,Yes,,7.0,57.0,0
+D00303,Nordics,Group Purchasing Org,Consumable Bundle,11861.0,13.7,No,53.0,7.8,35.0,1
+D00287,DACH,Independent Clinic,Consumable Bundle,15473.0,0.0,No,54.0,5.2,71.0,0
+D00220,Southern Europe,Group Purchasing Org,Consumable Bundle,11194.0,23.8,No,62.0,10.7,69.0,0
+D00388,APAC,Private Hospital Network,Machine,27944.0,17.4,No,6.0,2.2,60.0,0
+D01071,APAC,Private Hospital Network,Consumable Bundle,11362.0,2.2,Yes,47.0,6.2,70.0,1
+D00391,LATAM,Public Tender,Consumable Bundle,14409.0,15.5,Yes,39.0,2.7,65.0,1
+D00353,Nordics,Group Purchasing Org,Consumable Bundle,11897.0,18.0,No,61.0,0.3,72.0,1
+D00194,APAC,Private Hospital Network,Machine,32956.0,14.2,Yes,11.0,1.4,50.0,1
+D00236,APAC,Group Purchasing Org,Consumable Bundle,11432.0,19.3,Yes,41.0,9.2,27.0,1
+D00843,Nordics,Private Hospital Network,Consumable Bundle,6202.0,20.8,No,54.0,5.7,63.0,1
+D00481,Southern Europe,Group Purchasing Org,Consumable Bundle,5515.0,15.6,No,52.0,0.5,56.0,0
+D00117,LATAM,Private Hospital Network,Machine,37349.0,16.2,No,5.0,0.6,66.0,1
+D00818,Nordics,Independent Clinic,Machine,31781.0,11.1,No,4.0,2.5,55.0,1
+D01015,Southern Europe,Public Tender,Machine,36485.0,26.5,Yes,6.0,6.7,65.0,1
+D00654,DACH,Group Purchasing Org,Machine,22887.0,29.3,Yes,6.0,6.3,44.0,1
+D00665,Southern Europe,Public Tender,Machine,26919.0,13.9,Yes,5.0,7.6,48.0,1
+D00121,Nordics,Public Tender,Machine,30373.0,28.0,Yes,7.0,8.3,64.0,0
+D00955,APAC,Private Hospital Network,Machine,26500.0,13.7,Yes,4.0,2.2,87.0,0
+D00846,APAC,Group Purchasing Org,Consumable Bundle,11679.0,19.2,Yes,48.0,6.8,73.0,0
+D00661,Southern Europe,Private Hospital Network,Machine,32393.0,5.8,No,5.0,7.4,110.0,0
+D00063,Nordics,Group Purchasing Org,Consumable Bundle,11333.0,12.8,Yes,44.0,0.2,74.0,0
+D00572,APAC,Independent Clinic,Consumable Bundle,11344.0,15.3,No,44.0,4.0,30.0,1
+D00454,DACH,Private Hospital Network,Consumable Bundle,9286.0,21.7,Yes,52.0,5.9,102.0,0
+D00516,DACH,Public Tender,Machine,20888.0,7.0,Yes,10.0,5.9,49.0,0
+D00224,APAC,Independent Clinic,Machine,28232.0,4.4,Yes,10.0,10.2,90.0,0
+D00222,Nordics,Private Hospital Network,Machine,29051.0,4.9,No,13.0,4.2,89.0,0
+D00680,Southern Europe,Private Hospital Network,Machine,20672.0,15.8,Yes,9.0,,60.0,0
+D00466,LATAM,Private Hospital Network,Consumable Bundle,4323.0,19.0,Yes,51.0,3.8,95.0,0
+D00053,LATAM,Public Tender,Machine,17230.0,21.8,Yes,9.0,,53.0,0
+D00992,LATAM,Group Purchasing Org,Machine,40467.0,25.2,Yes,4.0,,37.0,0
+D00486,Southern Europe,Group Purchasing Org,Consumable Bundle,9702.0,26.7,No,53.0,8.3,89.0,0
+D01052,DACH,Public Tender,Consumable Bundle,9461.0,17.7,No,46.0,0.8,50.0,1
+D00780,APAC,Private Hospital Network,Consumable Bundle,9610.0,13.6,Yes,51.0,9.2,73.0,0
+D00156,LATAM,Group Purchasing Org,Consumable Bundle,10147.0,19.3,Yes,53.0,6.6,68.0,0
+D00778,DACH,Private Hospital Network,Consumable Bundle,12627.0,14.9,Yes,45.0,7.9,61.0,1
+D00751,Southern Europe,Public Tender,Machine,34073.0,19.5,Yes,6.0,3.4,103.0,0
+D00249,Southern Europe,Private Hospital Network,Consumable Bundle,10813.0,12.2,Yes,34.0,4.9,39.0,1
+D00442,DACH,Public Tender,Consumable Bundle,6532.0,16.3,Yes,44.0,8.3,85.0,0
+D00999,APAC,Public Tender,Machine,23653.0,19.2,Yes,9.0,11.5,42.0,0
+D00543,APAC,Private Hospital Network,Machine,35123.0,13.5,No,4.0,5.8,72.0,0
+D00118,LATAM,Private Hospital Network,Consumable Bundle,9389.0,17.6,Yes,39.0,12.0,41.0,0
+D00840,Nordics,Public Tender,Consumable Bundle,6784.0,18.3,Yes,43.0,4.7,88.0,0
+D00782,APAC,Independent Clinic,Machine,29774.0,22.5,Yes,8.0,7.8,30.0,1
+D00292,DACH,Group Purchasing Org,Machine,35125.0,17.0,Yes,7.0,7.8,89.0,0
+D00904,Nordics,Independent Clinic,Consumable Bundle,10601.0,20.1,Yes,50.0,7.5,51.0,1
+D00382,APAC,Public Tender,Consumable Bundle,10767.0,12.2,No,,0.7,70.0,0
+D00695,APAC,Group Purchasing Org,Consumable Bundle,12150.0,-14.4,Yes,50.0,2.1,36.0,1
+D00201,LATAM,Public Tender,Consumable Bundle,5938.0,25.4,Yes,57.0,8.1,106.0,0
+D00835,LATAM,Independent Clinic,Consumable Bundle,3148.0,8.1,No,57.0,3.4,68.0,0
+D01049,APAC,Independent Clinic,Consumable Bundle,7628.0,8.0,Yes,,5.8,64.0,0
+D01092,LATAM,Private Hospital Network,Consumable Bundle,11337.0,7.1,Yes,44.0,6.3,117.0,1
+D00506,LATAM,Public Tender,Consumable Bundle,5553.0,21.2,No,47.0,2.1,34.0,0
+D00894,DACH,Public Tender,Consumable Bundle,12153.0,12.5,Yes,44.0,0.9,44.0,0
+D01095,Nordics,Independent Clinic,Consumable Bundle,5868.0,15.3,No,55.0,9.5,35.0,0
+D00341,DACH,Public Tender,Consumable Bundle,12157.0,18.8,Yes,49.0,0.7,55.0,1
+D00155,DACH,Public Tender,Consumable Bundle,10668.0,24.2,Yes,60.0,1.4,42.0,1
+D01012,Nordics,Private Hospital Network,Consumable Bundle,11887.0,19.4,Yes,49.0,6.1,53.0,1
+D00651,Southern Europe,Independent Clinic,Machine,34812.0,0.0,Yes,2.0,9.1,59.0,1
+D00850,APAC,Group Purchasing Org,Machine,23489.0,16.3,No,6.0,4.8,56.0,1
+D00919,Southern Europe,Independent Clinic,Machine,29336.0,9.2,No,14.0,4.8,52.0,1
+D00323,Southern Europe,Private Hospital Network,Machine,39343.0,5.0,No,8.0,2.7,99.0,0
+D00702,Southern Europe,Independent Clinic,Consumable Bundle,9138.0,18.7,No,62.0,5.5,76.0,1
+D00682,DACH,Independent Clinic,Machine,20836.0,12.4,Yes,6.0,6.2,29.0,1
+D00083,APAC,Public Tender,Machine,36928.0,10.6,Yes,12.0,5.7,65.0,0
+D01026,Southern Europe,Private Hospital Network,Consumable Bundle,7806.0,18.8,No,48.0,3.7,64.0,0
+D00465,Nordics,Independent Clinic,Consumable Bundle,11238.0,12.6,No,49.0,,58.0,1
+D00645,LATAM,Independent Clinic,Machine,35940.0,8.2,Yes,6.0,7.8,96.0,0
+D01077,Nordics,Private Hospital Network,Consumable Bundle,11694.0,22.7,No,56.0,0.2,70.0,1
+D00334,APAC,Public Tender,Machine,36068.0,19.9,No,6.0,3.6,24.0,0
+D00011,Southern Europe,Public Tender,Consumable Bundle,6935.0,14.0,Yes,56.0,2.9,72.0,1
+D00471,Southern Europe,Private Hospital Network,Consumable Bundle,6858.0,12.7,No,47.0,1.7,50.0,1
+D00033,Southern Europe,Public Tender,Machine,43510.0,25.6,Yes,10.0,5.5,76.0,0
+D00669,Southern Europe,Public Tender,Consumable Bundle,7468.0,14.9,No,51.0,3.6,68.0,0
+D00414,APAC,Independent Clinic,Consumable Bundle,11940.0,13.8,No,47.0,3.9,80.0,0
+D00581,Nordics,Independent Clinic,Machine,13624.0,17.3,Yes,9.0,8.3,75.0,1
+D00383,LATAM,Independent Clinic,Machine,42277.0,13.1,Yes,6.0,4.4,42.0,0
+D00706,Nordics,Independent Clinic,Consumable Bundle,12986.0,13.1,No,44.0,2.3,44.0,1
+D00649,LATAM,Private Hospital Network,Consumable Bundle,2000.0,15.7,Yes,38.0,2.4,65.0,0
+D01045,DACH,Private Hospital Network,Machine,30711.0,22.7,Yes,4.0,6.6,65.0,1
+D01051,LATAM,Independent Clinic,Consumable Bundle,12192.0,8.8,No,47.0,4.4,28.0,0
+D00379,Southern Europe,Private Hospital Network,Machine,42207.0,20.7,Yes,6.0,0.6,57.0,0
+D00090,Nordics,Independent Clinic,Machine,39612.0,11.6,No,4.0,7.8,126.0,0
+D00602,LATAM,Group Purchasing Org,Consumable Bundle,13088.0,17.5,No,42.0,5.2,63.0,1
+D00214,APAC,Public Tender,Consumable Bundle,6180.0,20.2,No,49.0,6.5,67.0,0
+D00987,Southern Europe,Private Hospital Network,Consumable Bundle,6399.0,14.4,No,39.0,3.5,117.0,1
+D00134,Southern Europe,Independent Clinic,Machine,24863.0,10.5,Yes,11.0,11.6,63.0,0
+D00347,APAC,Group Purchasing Org,Consumable Bundle,8162.0,20.5,No,50.0,1.4,104.0,0
+D00734,Southern Europe,Public Tender,Consumable Bundle,9719.0,11.8,No,60.0,0.8,61.0,1
+D00008,LATAM,Private Hospital Network,Consumable Bundle,14086.0,7.5,Yes,40.0,,69.0,1
+D00721,Nordics,Group Purchasing Org,Consumable Bundle,13617.0,14.3,No,41.0,9.8,82.0,1
+D00321,APAC,Independent Clinic,Machine,27457.0,19.2,No,6.0,2.1,25.0,0
+D00952,Southern Europe,Public Tender,Consumable Bundle,9870.0,7.4,No,43.0,,69.0,1
+D00188,DACH,Private Hospital Network,Machine,32906.0,9.9,Yes,5.0,6.8,67.0,1
+D00553,DACH,Public Tender,Consumable Bundle,11235.0,14.6,No,45.0,3.5,26.0,0
+D00305,APAC,Public Tender,Machine,31215.0,10.0,Yes,5.0,4.6,81.0,0
+D00032,APAC,Private Hospital Network,Consumable Bundle,12032.0,2.9,Yes,48.0,2.8,24.0,1
+D00714,APAC,Public Tender,Consumable Bundle,4546.0,17.2,No,53.0,5.1,58.0,1
+D00241,APAC,Public Tender,Consumable Bundle,9854.0,17.4,No,42.0,0.2,110.0,1
+D01053,Southern Europe,Independent Clinic,Machine,30324.0,1.4,No,5.0,12.3,67.0,0
+D00175,DACH,Public Tender,Machine,28540.0,16.0,Yes,6.0,6.6,25.0,1
+D00246,APAC,Independent Clinic,Consumable Bundle,9192.0,10.7,Yes,,7.9,90.0,0
+D00057,Southern Europe,Public Tender,Consumable Bundle,10438.0,14.8,No,40.0,6.6,42.0,0
+D00631,APAC,Group Purchasing Org,Machine,18895.0,20.9,No,13.0,2.6,50.0,1
+D00584,Southern Europe,Public Tender,Machine,31308.0,16.9,Yes,6.0,8.2,63.0,0
+D00877,Southern Europe,Private Hospital Network,Machine,33197.0,9.7,No,5.0,6.8,47.0,0
+D00146,Southern Europe,Public Tender,Machine,30214.0,23.2,No,9.0,3.6,77.0,0
+D00091,DACH,Private Hospital Network,Consumable Bundle,6899.0,11.6,Yes,54.0,3.4,88.0,0
+D00393,Nordics,Independent Clinic,Consumable Bundle,8426.0,12.4,No,60.0,6.4,80.0,0
+D00311,Nordics,Group Purchasing Org,Consumable Bundle,5902.0,5.8,Yes,60.0,6.7,66.0,0
+D00360,Nordics,Private Hospital Network,Machine,34163.0,13.7,Yes,3.0,6.2,62.0,0
+D00094,Southern Europe,Group Purchasing Org,Machine,39947.0,21.9,Yes,8.0,10.8,24.0,0
+D00873,APAC,Independent Clinic,Consumable Bundle,5985.0,14.7,No,47.0,7.9,47.0,0
+D00968,DACH,Group Purchasing Org,Machine,36034.0,19.3,Yes,6.0,8.5,43.0,1
+D00377,APAC,Private Hospital Network,Consumable Bundle,8030.0,5.6,No,45.0,2.9,52.0,1
+D00244,Nordics,Private Hospital Network,Consumable Bundle,11426.0,10.1,No,63.0,,63.0,0
+D00967,APAC,Private Hospital Network,Machine,37754.0,5.6,No,10.0,6.6,91.0,0
+D00088,Nordics,Group Purchasing Org,Consumable Bundle,11739.0,7.8,Yes,56.0,11.1,90.0,1
+D00215,LATAM,Public Tender,Consumable Bundle,11572.0,21.5,No,47.0,5.1,32.0,0
+D00445,Southern Europe,Private Hospital Network,Machine,32958.0,26.1,Yes,7.0,6.9,29.0,1
+D00174,APAC,Independent Clinic,Machine,18992.0,15.7,Yes,5.0,5.2,56.0,0
+D00426,APAC,Public Tender,Consumable Bundle,12099.0,24.1,Yes,49.0,7.5,40.0,1
+D00903,DACH,Group Purchasing Org,Consumable Bundle,8674.0,14.4,No,41.0,4.8,11.0,0
+D00119,Southern Europe,Independent Clinic,Consumable Bundle,6439.0,6.8,Yes,35.0,6.4,117.0,0
+D00120,LATAM,Public Tender,Consumable Bundle,9804.0,17.6,Yes,61.0,8.7,85.0,0
+D00744,DACH,Group Purchasing Org,Machine,27674.0,16.6,Yes,,5.2,55.0,0
+D00001,LATAM,Public Tender,Machine,27856.0,14.2,No,8.0,,69.0,1
+D00395,DACH,Private Hospital Network,Machine,30141.0,16.1,Yes,7.0,4.4,62.0,0
+D00402,APAC,Group Purchasing Org,Consumable Bundle,8535.0,22.8,No,,,71.0,1
+D00405,APAC,Group Purchasing Org,Machine,36416.0,13.8,Yes,9.0,3.3,51.0,0
+D00719,LATAM,Private Hospital Network,Machine,36921.0,13.7,No,8.0,6.0,81.0,1
+D00940,DACH,Independent Clinic,Machine,30421.0,10.9,No,8.0,3.4,92.0,0
+D00163,DACH,Private Hospital Network,Consumable Bundle,6349.0,18.7,Yes,49.0,6.2,49.0,1
+D00115,DACH,Public Tender,Machine,20604.0,10.7,No,3.0,2.7,106.0,0
+D00151,APAC,Public Tender,Machine,27742.0,17.5,Yes,7.0,9.2,40.0,1
+D00761,LATAM,Independent Clinic,Consumable Bundle,13414.0,5.3,No,40.0,4.1,60.0,0
+D01076,Southern Europe,Private Hospital Network,Consumable Bundle,8564.0,21.5,No,44.0,10.7,72.0,1
+D00856,Nordics,Group Purchasing Org,Consumable Bundle,7493.0,20.4,Yes,52.0,3.2,36.0,0
+D00369,Southern Europe,Independent Clinic,Consumable Bundle,7271.0,20.7,Yes,65.0,6.3,68.0,1
+D00544,APAC,Public Tender,Consumable Bundle,15960.0,18.7,Yes,60.0,,40.0,0
+D00478,LATAM,Group Purchasing Org,Consumable Bundle,9457.0,16.0,Yes,64.0,8.3,102.0,0
+D01040,DACH,Group Purchasing Org,Machine,27302.0,17.5,Yes,9.0,7.1,106.0,1
+D00533,Southern Europe,Independent Clinic,Consumable Bundle,7569.0,18.7,Yes,52.0,5.1,7.0,1
+D00626,Southern Europe,Public Tender,Consumable Bundle,12890.0,13.6,Yes,45.0,2.9,106.0,0
+D00513,DACH,Independent Clinic,Machine,42811.0,18.6,Yes,11.0,2.7,50.0,0
+D00703,DACH,Public Tender,Machine,22048.0,20.9,No,10.0,7.9,73.0,0
+D00073,APAC,Public Tender,Consumable Bundle,8107.0,21.5,No,47.0,6.7,16.0,0
+D00259,DACH,Independent Clinic,Machine,41170.0,8.7,No,10.0,4.0,48.0,0
+D00625,APAC,Private Hospital Network,Consumable Bundle,12033.0,13.1,No,56.0,1.6,49.0,0
+D00993,LATAM,Private Hospital Network,Consumable Bundle,13490.0,13.1,No,58.0,4.4,54.0,1
+D00136,DACH,Public Tender,Consumable Bundle,10645.0,27.7,No,53.0,6.5,84.0,1
+D00617,LATAM,Private Hospital Network,Machine,31385.0,13.6,Yes,5.0,6.8,7.0,0
+D00517,Southern Europe,Public Tender,Consumable Bundle,6492.0,9.1,No,59.0,0.2,97.0,0
+D00743,APAC,Public Tender,Consumable Bundle,12173.0,2.0,Yes,56.0,2.1,97.0,0
+D00593,Southern Europe,Public Tender,Consumable Bundle,9346.0,8.9,No,51.0,5.3,70.0,0
+D00929,Nordics,Private Hospital Network,Consumable Bundle,13935.0,10.5,No,50.0,3.7,59.0,1
+D00502,APAC,Public Tender,Consumable Bundle,8142.0,17.4,No,,0.2,42.0,0
+D00539,DACH,Public Tender,Consumable Bundle,11025.0,17.6,Yes,44.0,3.0,37.0,1
+D00897,Southern Europe,Public Tender,Machine,37128.0,16.5,Yes,7.0,,100.0,1
+D00582,Nordics,Group Purchasing Org,Machine,26178.0,11.0,No,4.0,12.1,78.0,1
+D00344,Nordics,Public Tender,Machine,35434.0,17.4,Yes,6.0,8.0,71.0,0
+D00791,DACH,Public Tender,Consumable Bundle,11256.0,16.3,No,59.0,6.0,16.0,0
+D01006,Southern Europe,Independent Clinic,Machine,40137.0,8.6,Yes,5.0,0.2,71.0,0
+D00294,DACH,Public Tender,Consumable Bundle,17694.0,24.2,No,48.0,5.9,34.0,1
+D00365,LATAM,Independent Clinic,Consumable Bundle,7721.0,22.2,Yes,36.0,3.9,65.0,1
+D00733,DACH,Private Hospital Network,Consumable Bundle,8331.0,11.9,Yes,47.0,2.9,116.0,0
+D00660,Southern Europe,Group Purchasing Org,Consumable Bundle,5184.0,10.6,No,55.0,6.0,67.0,0
+D00015,Southern Europe,Group Purchasing Org,Consumable Bundle,8750.0,19.9,Yes,53.0,10.6,79.0,1
+D00687,Southern Europe,Private Hospital Network,Machine,48957.0,12.7,Yes,7.0,7.2,70.0,1
+D00087,LATAM,Private Hospital Network,Consumable Bundle,9095.0,14.1,No,47.0,0.7,96.0,0
+D00371,LATAM,Group Purchasing Org,Machine,49449.0,19.4,Yes,8.0,4.4,7.0,0
+D00166,Southern Europe,Group Purchasing Org,Consumable Bundle,14779.0,17.4,Yes,77.0,,85.0,0
+D00132,APAC,Independent Clinic,Machine,27650.0,15.5,No,7.0,12.2,39.0,0
+D00336,LATAM,Group Purchasing Org,Consumable Bundle,4632.0,31.5,No,51.0,4.4,33.0,1
+D00060,DACH,Independent Clinic,Consumable Bundle,11667.0,18.8,No,46.0,1.9,78.0,1
+D00710,Nordics,Public Tender,Consumable Bundle,12542.0,22.4,Yes,50.0,7.0,24.0,0
+D00677,APAC,Independent Clinic,Machine,36638.0,9.7,No,6.0,6.0,69.0,0
+D00355,Nordics,Private Hospital Network,Machine,22637.0,10.4,Yes,7.0,7.6,69.0,1
+D00425,LATAM,Independent Clinic,Consumable Bundle,4254.0,13.8,No,56.0,6.3,73.0,1
+D00293,APAC,Public Tender,Machine,31579.0,15.2,No,7.0,2.8,82.0,0
+D00042,APAC,Independent Clinic,Machine,12754.0,18.8,Yes,5.0,11.5,104.0,1
+D00330,Southern Europe,Private Hospital Network,Consumable Bundle,9936.0,8.8,Yes,47.0,6.2,108.0,0
+D00615,Southern Europe,Private Hospital Network,Machine,30813.0,18.5,No,9.0,4.6,57.0,0
+D00430,APAC,Public Tender,Machine,36363.0,13.0,No,8.0,3.5,37.0,0
+D00080,LATAM,Public Tender,Consumable Bundle,9253.0,18.4,Yes,46.0,7.7,39.0,1
+D00694,Southern Europe,Independent Clinic,Consumable Bundle,5928.0,11.1,Yes,54.0,4.1,75.0,0
+D00029,DACH,Independent Clinic,Machine,38763.0,7.8,Yes,,10.4,72.0,1
+D00708,LATAM,Private Hospital Network,Machine,34459.0,19.4,Yes,6.0,6.1,60.0,0
+D00255,DACH,Group Purchasing Org,Consumable Bundle,11783.0,22.1,No,46.0,7.8,46.0,0
+D01062,LATAM,Public Tender,Consumable Bundle,5744.0,17.6,Yes,57.0,7.9,51.0,1
+D00459,LATAM,Independent Clinic,Machine,28862.0,13.6,No,6.0,1.3,87.0,0
+D00384,Nordics,Public Tender,Machine,37506.0,14.6,Yes,,3.6,43.0,1
+D00314,Southern Europe,Group Purchasing Org,Machine,38042.0,6.3,No,5.0,3.4,45.0,1
+D00085,DACH,Public Tender,Machine,28893.0,20.6,Yes,10.0,0.2,80.0,0
+D00575,APAC,Independent Clinic,Consumable Bundle,8163.0,5.7,No,49.0,8.8,63.0,0
+D00137,APAC,Public Tender,Consumable Bundle,9340.0,32.9,No,44.0,6.2,48.0,1
+D00112,DACH,Group Purchasing Org,Machine,30272.0,11.6,No,5.0,2.0,67.0,0
+D00195,DACH,Private Hospital Network,Consumable Bundle,4284.0,16.8,Yes,54.0,6.0,25.0,0
+D00179,APAC,Group Purchasing Org,Machine,39363.0,19.3,No,5.0,7.5,105.0,0
+D00556,DACH,Private Hospital Network,Consumable Bundle,7876.0,9.5,No,52.0,2.3,27.0,1
+D00724,APAC,Independent Clinic,Consumable Bundle,9491.0,1.6,Yes,40.0,4.5,86.0,0
+D00497,Southern Europe,Public Tender,Consumable Bundle,7483.0,28.2,No,45.0,3.6,102.0,1
+D00130,Nordics,Public Tender,Consumable Bundle,11270.0,17.0,Yes,57.0,4.9,48.0,1
+D00716,DACH,Private Hospital Network,Machine,32806.0,24.0,No,7.0,1.5,38.0,1
+D00338,LATAM,Private Hospital Network,Machine,23208.0,10.4,Yes,7.0,8.4,68.0,0
+D01091,Southern Europe,Public Tender,Machine,31632.0,9.3,Yes,8.0,6.4,55.0,0
+D00609,LATAM,Group Purchasing Org,Machine,26577.0,19.3,No,7.0,6.5,63.0,0
+D00125,DACH,Public Tender,Machine,25581.0,12.0,Yes,4.0,5.0,28.0,0
+D00196,DACH,Private Hospital Network,Consumable Bundle,6331.0,29.2,No,55.0,8.9,60.0,0
+D00227,DACH,Private Hospital Network,Machine,36929.0,5.4,No,8.0,0.2,71.0,1
+D00690,Nordics,Public Tender,Machine,16342.0,20.6,No,6.0,2.4,88.0,0
+D00269,DACH,Public Tender,Consumable Bundle,8622.0,26.6,Yes,50.0,4.7,102.0,1
+D00153,DACH,Public Tender,Machine,30045.0,15.2,Yes,7.0,5.2,82.0,0
+D00585,APAC,Public Tender,Machine,34824.0,20.5,No,11.0,10.3,41.0,0
+D00104,APAC,Independent Clinic,Consumable Bundle,8934.0,12.6,No,40.0,2.7,66.0,1
+D00594,Nordics,Independent Clinic,Consumable Bundle,10344.0,20.4,No,42.0,0.4,73.0,0
+D01000,Southern Europe,Public Tender,Consumable Bundle,9565.0,17.7,Yes,62.0,3.7,50.0,1
+D00966,Nordics,Group Purchasing Org,Consumable Bundle,10941.0,16.6,Yes,56.0,,41.0,1
+D00769,DACH,Private Hospital Network,Consumable Bundle,9496.0,12.7,No,52.0,8.6,48.0,0
+D00228,Nordics,Private Hospital Network,Consumable Bundle,7435.0,18.7,No,,2.8,90.0,0
+D01085,APAC,Private Hospital Network,Machine,15354.0,16.4,No,10.0,3.0,74.0,0
+D00302,DACH,Public Tender,Consumable Bundle,7881.0,7.7,No,47.0,7.3,63.0,1
+D00276,Southern Europe,Public Tender,Machine,30295.0,16.3,No,9.0,8.0,70.0,0
+D00127,Southern Europe,Private Hospital Network,Machine,34942.0,13.1,No,6.0,0.2,58.0,1
+D00406,APAC,Private Hospital Network,Machine,37088.0,7.3,Yes,10.0,5.9,12.0,0
+D00957,LATAM,Group Purchasing Org,Machine,32555.0,11.6,No,4.0,7.1,50.0,0
+D00684,Southern Europe,Public Tender,Machine,24716.0,25.8,Yes,10.0,0.4,74.0,0
+D00750,APAC,Independent Clinic,Consumable Bundle,13217.0,24.3,No,58.0,5.3,112.0,1
+D01034,APAC,Group Purchasing Org,Machine,42578.0,14.7,Yes,5.0,2.5,69.0,1
+D00037,DACH,Private Hospital Network,Machine,24355.0,13.0,No,12.0,4.3,51.0,1
+D00140,DACH,Public Tender,Machine,35400.0,13.4,Yes,8.0,6.0,14.0,1
+D00304,Nordics,Private Hospital Network,Consumable Bundle,7405.0,20.9,No,52.0,10.6,60.0,0
+D00268,DACH,Public Tender,Consumable Bundle,10220.0,16.4,Yes,40.0,7.4,60.0,1
+D00534,LATAM,Independent Clinic,Machine,34779.0,5.3,Yes,8.0,6.9,52.0,0
+D00546,Southern Europe,Private Hospital Network,Consumable Bundle,5937.0,16.6,Yes,47.0,11.6,47.0,0
+D00213,DACH,Private Hospital Network,Machine,32701.0,20.9,No,4.0,4.4,81.0,1
+D00469,DACH,Private Hospital Network,Consumable Bundle,9211.0,21.1,Yes,42.0,9.8,10.0,0
+D00199,DACH,Independent Clinic,Machine,25151.0,3.9,Yes,10.0,9.8,42.0,0
+D00673,APAC,Independent Clinic,Machine,44536.0,8.9,Yes,6.0,4.3,66.0,0
+D00528,APAC,Public Tender,Machine,30754.0,7.2,Yes,7.0,6.7,96.0,0
+D00676,Southern Europe,Private Hospital Network,Machine,36496.0,12.1,No,9.0,2.5,52.0,0
+D00923,LATAM,Public Tender,Machine,45961.0,16.6,No,11.0,6.8,77.0,0
+D00242,LATAM,Group Purchasing Org,Machine,41537.0,18.9,No,10.0,4.7,77.0,0
+D00343,APAC,Public Tender,Machine,23668.0,27.9,No,10.0,6.2,76.0,1
+D00550,Southern Europe,Group Purchasing Org,Machine,39633.0,24.8,No,8.0,2.1,38.0,1
+D00387,LATAM,Group Purchasing Org,Machine,26642.0,19.8,No,13.0,4.0,77.0,0
+D01007,APAC,Independent Clinic,Machine,36933.0,15.2,No,6.0,6.2,71.0,0
+D00207,DACH,Independent Clinic,Consumable Bundle,10370.0,23.1,No,37.0,10.2,80.0,1
+D00296,APAC,Public Tender,Consumable Bundle,6182.0,18.9,Yes,,,49.0,0
+D00696,Nordics,Public Tender,Machine,34262.0,30.0,Yes,5.0,4.9,51.0,0
+D00898,DACH,Private Hospital Network,Machine,25000.0,14.6,Yes,11.0,,29.0,0
+D00074,DACH,Independent Clinic,Consumable Bundle,6458.0,18.3,No,56.0,3.9,24.0,0
+D00869,DACH,Private Hospital Network,Consumable Bundle,11211.0,10.6,Yes,44.0,5.2,36.0,0
+D00105,LATAM,Public Tender,Consumable Bundle,5018.0,17.8,Yes,47.0,2.9,65.0,0
+D00805,DACH,Independent Clinic,Machine,33375.0,13.2,Yes,6.0,7.3,53.0,0
+D00829,APAC,Public Tender,Consumable Bundle,13563.0,14.6,Yes,53.0,5.0,80.0,0
+D01075,APAC,Private Hospital Network,Consumable Bundle,13065.0,27.4,Yes,42.0,9.4,40.0,0
+D00017,Nordics,Public Tender,Machine,26031.0,10.0,Yes,10.0,1.8,67.0,0
+D00440,LATAM,Private Hospital Network,Machine,30818.0,10.4,Yes,7.0,5.6,89.0,0
+D00092,LATAM,Private Hospital Network,Consumable Bundle,13208.0,14.4,No,61.0,4.7,70.0,0
+D00089,DACH,Public Tender,Machine,32968.0,14.3,Yes,6.0,1.8,58.0,1
+D00451,DACH,Public Tender,Consumable Bundle,11645.0,24.7,Yes,48.0,1.2,96.0,1
+D00718,DACH,Private Hospital Network,Consumable Bundle,10628.0,25.8,No,45.0,8.0,86.0,0
+D00103,Southern Europe,Group Purchasing Org,Consumable Bundle,5328.0,18.3,No,59.0,4.1,39.0,0
+D00239,DACH,Group Purchasing Org,Consumable Bundle,8818.0,18.7,No,67.0,5.9,51.0,0
+D00842,LATAM,Private Hospital Network,Consumable Bundle,3832.0,16.6,Yes,56.0,1.9,37.0,0
+D00247,LATAM,Private Hospital Network,Machine,29878.0,16.3,Yes,6.0,5.3,85.0,0
+D01009,LATAM,Private Hospital Network,Machine,41854.0,23.2,Yes,8.0,4.8,46.0,0
+D00158,LATAM,Group Purchasing Org,Consumable Bundle,10793.0,26.0,No,51.0,8.7,36.0,1
+D00480,Southern Europe,Group Purchasing Org,Machine,35657.0,27.3,No,4.0,5.2,62.0,1
+D00646,APAC,Independent Clinic,Consumable Bundle,8966.0,7.5,Yes,45.0,7.1,92.0,0
+D00991,LATAM,Private Hospital Network,Machine,41659.0,7.9,No,7.0,4.7,98.0,0
+D00964,DACH,Public Tender,Consumable Bundle,12282.0,14.8,No,50.0,3.7,70.0,0
+D00019,APAC,Public Tender,Consumable Bundle,8046.0,17.7,No,51.0,7.2,82.0,1
+D01087,LATAM,Group Purchasing Org,Consumable Bundle,13362.0,12.9,No,49.0,3.2,33.0,0
+D00122,LATAM,Public Tender,Machine,33796.0,28.3,Yes,8.0,7.5,31.0,0
+D00980,DACH,Public Tender,Consumable Bundle,14036.0,16.9,No,51.0,3.4,77.0,0
+D00896,APAC,Independent Clinic,Machine,27481.0,5.8,No,7.0,8.8,7.0,0
+D00275,LATAM,Group Purchasing Org,Machine,36163.0,5.9,Yes,7.0,8.4,32.0,0
+D00434,APAC,Independent Clinic,Consumable Bundle,6539.0,20.8,Yes,47.0,11.4,90.0,1
+D00951,Nordics,Group Purchasing Org,Machine,28424.0,17.9,No,11.0,2.8,36.0,0
+D01039,Southern Europe,Independent Clinic,Machine,38074.0,18.5,Yes,6.0,5.3,64.0,1
+D00312,Southern Europe,Group Purchasing Org,Machine,38563.0,19.7,No,6.0,,73.0,1
+D00997,LATAM,Public Tender,Consumable Bundle,4920.0,21.8,Yes,51.0,3.3,36.0,0
+D00979,Nordics,Private Hospital Network,Machine,46841.0,5.7,Yes,7.0,,36.0,0
+D00781,Southern Europe,Private Hospital Network,Consumable Bundle,7050.0,4.2,Yes,53.0,5.5,73.0,1
+D00547,Southern Europe,Public Tender,Machine,22593.0,19.1,No,7.0,7.8,45.0,1
+D00182,APAC,Private Hospital Network,Machine,36968.0,12.7,Yes,8.0,3.8,109.0,1
+D00185,LATAM,Group Purchasing Org,Machine,31718.0,19.8,Yes,10.0,5.8,7.0,0
+D00407,Southern Europe,Independent Clinic,Consumable Bundle,8625.0,15.3,Yes,55.0,6.1,80.0,1
+D00720,APAC,Independent Clinic,Consumable Bundle,3119.0,19.7,Yes,51.0,0.3,72.0,0
+D00607,APAC,Public Tender,Machine,47004.0,27.7,No,5.0,7.2,63.0,1
+D00693,DACH,Public Tender,Consumable Bundle,7969.0,11.2,No,43.0,0.2,47.0,0
+D00521,APAC,Public Tender,Consumable Bundle,12105.0,7.1,No,40.0,0.2,66.0,0
+D00381,Nordics,Private Hospital Network,Machine,37643.0,11.7,Yes,8.0,9.8,33.0,1
+D00411,LATAM,Public Tender,Consumable Bundle,9489.0,6.1,Yes,50.0,1.1,53.0,0
+D00635,DACH,Group Purchasing Org,Consumable Bundle,6788.0,23.6,Yes,63.0,4.7,59.0,1
+D00370,APAC,Public Tender,Consumable Bundle,9137.0,12.0,Yes,50.0,0.2,51.0,0
+D00946,Southern Europe,Public Tender,Consumable Bundle,12117.0,21.7,No,54.0,2.3,19.0,0
+D00977,Nordics,Group Purchasing Org,Consumable Bundle,7071.0,11.3,Yes,51.0,7.0,48.0,0
+D00879,LATAM,Independent Clinic,Consumable Bundle,5935.0,7.5,No,51.0,6.8,71.0,1
+D00079,Nordics,Public Tender,Consumable Bundle,14141.0,13.5,No,50.0,3.5,94.0,0
+D00574,LATAM,Public Tender,Machine,37874.0,19.2,Yes,8.0,4.7,27.0,1
+D01081,Southern Europe,Independent Clinic,Consumable Bundle,12967.0,19.8,No,54.0,6.2,57.0,1
+D00638,LATAM,Public Tender,Machine,23714.0,18.9,Yes,8.0,6.0,50.0,1
+D00608,DACH,Private Hospital Network,Consumable Bundle,14694.0,22.6,Yes,51.0,2.6,61.0,0
+D00947,LATAM,Private Hospital Network,Consumable Bundle,12825.0,26.7,Yes,,6.0,90.0,0
+D00069,DACH,Group Purchasing Org,Consumable Bundle,6731.0,13.7,No,51.0,2.2,53.0,1
+D00975,Southern Europe,Private Hospital Network,Consumable Bundle,10692.0,18.3,Yes,62.0,,80.0,1
+D01055,Southern Europe,Independent Clinic,Machine,25291.0,12.5,No,5.0,7.0,80.0,0
+D00417,DACH,Public Tender,Machine,43653.0,16.3,Yes,9.0,1.9,61.0,1
+D00930,LATAM,Independent Clinic,Consumable Bundle,11856.0,23.3,Yes,53.0,6.4,57.0,0
+D00562,Southern Europe,Independent Clinic,Consumable Bundle,10178.0,13.0,Yes,58.0,7.4,76.0,1
+D00068,Southern Europe,Private Hospital Network,Consumable Bundle,6274.0,12.8,Yes,50.0,7.7,56.0,1
+D00537,Nordics,Private Hospital Network,Machine,37316.0,5.6,No,6.0,2.9,86.0,1
+D00078,LATAM,Private Hospital Network,Machine,38576.0,7.5,Yes,6.0,6.9,76.0,0
+D00106,LATAM,Public Tender,Machine,32133.0,13.7,No,5.0,2.6,39.0,1
+D01097,DACH,Public Tender,Consumable Bundle,5901.0,22.5,Yes,49.0,1.4,76.0,0
+D00961,Nordics,Group Purchasing Org,Consumable Bundle,10638.0,29.4,Yes,55.0,3.9,49.0,0
+D00639,LATAM,Private Hospital Network,Machine,43499.0,17.0,No,9.0,6.7,39.0,0
+D00560,Nordics,Public Tender,Consumable Bundle,10824.0,3.1,No,48.0,2.3,31.0,0
+D00847,Southern Europe,Public Tender,Consumable Bundle,9224.0,5.8,Yes,36.0,6.5,88.0,0
+D00887,Southern Europe,Public Tender,Machine,35910.0,25.3,Yes,10.0,5.8,59.0,1
+D00691,Southern Europe,Independent Clinic,Machine,30291.0,22.7,Yes,8.0,4.3,42.0,0
+D00908,DACH,Public Tender,Consumable Bundle,7875.0,16.5,No,55.0,9.8,34.0,1
+D01017,LATAM,Public Tender,Machine,26060.0,19.0,No,6.0,3.8,113.0,0
+D01065,Southern Europe,Group Purchasing Org,Machine,34897.0,12.4,Yes,6.0,6.7,75.0,0
+D01020,Southern Europe,Public Tender,Machine,33555.0,18.2,Yes,5.0,8.2,69.0,1
+D00736,LATAM,Public Tender,Consumable Bundle,6355.0,19.7,No,56.0,7.6,83.0,0
+D00906,LATAM,Group Purchasing Org,Consumable Bundle,12104.0,25.6,Yes,55.0,3.7,13.0,1
+D00491,LATAM,Public Tender,Consumable Bundle,2428.0,19.9,Yes,42.0,12.0,44.0,1
+D01093,Southern Europe,Independent Clinic,Consumable Bundle,12376.0,8.7,No,46.0,7.4,68.0,0
+D00830,Southern Europe,Private Hospital Network,Machine,36005.0,15.3,Yes,5.0,,23.0,0
+D00989,Southern Europe,Independent Clinic,Machine,31068.0,12.1,No,10.0,5.2,69.0,1
+D00606,LATAM,Group Purchasing Org,Machine,25228.0,19.1,No,8.0,0.2,103.0,1
+D00364,DACH,Private Hospital Network,Consumable Bundle,8915.0,9.6,No,60.0,4.3,71.0,1
+D00070,Southern Europe,Public Tender,Consumable Bundle,6014.0,22.7,No,52.0,9.9,35.0,1
+D00549,LATAM,Group Purchasing Org,Consumable Bundle,5903.0,16.7,Yes,41.0,4.4,40.0,1
+D00809,Nordics,Group Purchasing Org,Machine,36165.0,27.8,No,5.0,3.6,47.0,1
+D00161,DACH,Public Tender,Consumable Bundle,7577.0,18.9,Yes,52.0,3.8,84.0,0
+D00875,LATAM,Public Tender,Consumable Bundle,8841.0,14.6,No,54.0,0.2,42.0,0
+D00012,APAC,Private Hospital Network,Consumable Bundle,9955.0,10.5,Yes,50.0,2.1,84.0,0
+D00145,Nordics,Private Hospital Network,Consumable Bundle,7049.0,15.2,No,66.0,3.3,92.0,1
+D00518,LATAM,Private Hospital Network,Consumable Bundle,4892.0,18.0,Yes,48.0,6.9,40.0,1
+D00428,APAC,Private Hospital Network,Machine,37973.0,17.9,Yes,8.0,9.5,79.0,0
+D00640,APAC,Independent Clinic,Machine,19990.0,23.9,Yes,7.0,6.8,53.0,1
+D00177,Southern Europe,Public Tender,Consumable Bundle,12757.0,26.1,No,47.0,0.2,78.0,1
+D00441,APAC,Group Purchasing Org,Consumable Bundle,10604.0,7.1,Yes,56.0,7.7,59.0,0
+D00815,DACH,Public Tender,Machine,30784.0,14.8,No,5.0,7.3,42.0,0
+D00522,Southern Europe,Private Hospital Network,Consumable Bundle,12207.0,19.1,No,48.0,9.3,86.0,1
+D01022,LATAM,Public Tender,Consumable Bundle,5941.0,27.7,Yes,42.0,5.6,50.0,1
+D00449,DACH,Private Hospital Network,Consumable Bundle,11462.0,14.1,No,47.0,1.6,68.0,0
+D00689,LATAM,Group Purchasing Org,Machine,22757.0,12.8,Yes,7.0,8.4,60.0,0
+D00232,Southern Europe,Private Hospital Network,Consumable Bundle,10579.0,2.3,Yes,47.0,4.9,76.0,0
+D00211,LATAM,Private Hospital Network,Consumable Bundle,10599.0,0.0,Yes,46.0,2.0,30.0,0
+D00641,LATAM,Public Tender,Consumable Bundle,9878.0,20.1,No,53.0,1.3,89.0,0
+D00144,Nordics,Public Tender,Machine,34122.0,17.3,Yes,6.0,6.7,39.0,1
+D00754,Nordics,Independent Clinic,Consumable Bundle,12044.0,0.0,No,54.0,6.3,87.0,0
+D00520,APAC,Public Tender,Consumable Bundle,9370.0,25.3,No,42.0,1.4,46.0,1
+D00349,Nordics,Independent Clinic,Machine,31493.0,20.7,Yes,7.0,10.2,24.0,1
+D00299,LATAM,Private Hospital Network,Consumable Bundle,12038.0,33.1,Yes,66.0,5.0,89.0,1
+D00823,Southern Europe,Private Hospital Network,Consumable Bundle,7218.0,11.0,Yes,40.0,3.0,47.0,0
+D00767,DACH,Group Purchasing Org,Machine,24761.0,22.1,No,5.0,8.4,54.0,0
+D00429,DACH,Public Tender,Machine,37034.0,9.3,Yes,7.0,3.7,49.0,0
+D00613,APAC,Group Purchasing Org,Consumable Bundle,4487.0,20.3,Yes,46.0,0.2,87.0,0
+D01059,Nordics,Private Hospital Network,Consumable Bundle,10638.0,24.3,Yes,49.0,4.5,113.0,1
+D01064,LATAM,Private Hospital Network,Consumable Bundle,6708.0,9.4,Yes,51.0,11.3,36.0,1
+D00009,DACH,Group Purchasing Org,Machine,38088.0,23.1,No,7.0,6.0,36.0,1
+D00157,Southern Europe,Independent Clinic,Consumable Bundle,9374.0,16.9,No,41.0,8.2,58.0,0
+D00540,APAC,Independent Clinic,Consumable Bundle,6889.0,25.4,Yes,56.0,1.2,76.0,0
+D00507,Southern Europe,Group Purchasing Org,Consumable Bundle,3658.0,12.8,No,63.0,,61.0,1
+D00437,DACH,Independent Clinic,Consumable Bundle,18072.0,21.2,Yes,,3.3,36.0,0
+D00267,Southern Europe,Public Tender,Consumable Bundle,14138.0,15.9,No,58.0,7.3,71.0,0
+D00827,Nordics,Private Hospital Network,Machine,31306.0,18.3,Yes,8.0,0.2,74.0,0
+D00462,DACH,Independent Clinic,Machine,23511.0,16.2,No,12.0,5.7,55.0,0
+D00577,APAC,Independent Clinic,Consumable Bundle,9712.0,13.7,Yes,46.0,0.2,44.0,0
+D00339,DACH,Group Purchasing Org,Machine,30811.0,28.6,Yes,7.0,2.9,60.0,0
+D00256,LATAM,Public Tender,Consumable Bundle,8441.0,14.8,No,51.0,9.4,36.0,0
+D00939,APAC,Independent Clinic,Consumable Bundle,11095.0,14.2,No,61.0,8.5,65.0,0
+D00996,Southern Europe,Private Hospital Network,Machine,43361.0,13.8,Yes,9.0,5.6,77.0,1
+D00666,LATAM,Public Tender,Machine,23491.0,19.3,Yes,4.0,1.7,88.0,1
+D00561,DACH,Public Tender,Consumable Bundle,8454.0,21.4,No,43.0,4.8,72.0,1
+D00209,DACH,Public Tender,Machine,32750.0,23.6,Yes,5.0,11.6,7.0,0
+D00911,LATAM,Public Tender,Machine,27736.0,7.0,No,7.0,5.7,101.0,1
+D00288,Southern Europe,Private Hospital Network,Consumable Bundle,8232.0,16.3,No,50.0,9.2,60.0,1
+D00002,Southern Europe,Private Hospital Network,Consumable Bundle,12635.0,9.9,Yes,57.0,6.5,72.0,0
+D00342,APAC,Public Tender,Consumable Bundle,13413.0,15.1,Yes,55.0,6.5,37.0,1
+D00270,DACH,Private Hospital Network,Machine,42086.0,18.0,No,4.0,5.5,67.0,1
+D00266,DACH,Private Hospital Network,Consumable Bundle,12046.0,24.9,Yes,61.0,11.4,40.0,0
+D00915,APAC,Private Hospital Network,Consumable Bundle,8943.0,14.2,Yes,43.0,12.4,22.0,0
+D00953,Southern Europe,Private Hospital Network,Machine,34356.0,18.1,Yes,5.0,11.1,37.0,1
+D00963,DACH,Private Hospital Network,Machine,29427.0,5.0,No,10.0,1.2,67.0,0
+D00881,Southern Europe,Group Purchasing Org,Machine,37430.0,29.6,Yes,9.0,6.8,84.0,1
+D00096,LATAM,Public Tender,Machine,20756.0,22.1,No,3.0,6.7,37.0,0
+D01080,Southern Europe,Group Purchasing Org,Machine,32072.0,18.0,Yes,3.0,8.7,78.0,0
+D00865,DACH,Independent Clinic,Machine,37283.0,8.9,Yes,7.0,8.7,84.0,1
+D00043,LATAM,Group Purchasing Org,Machine,31727.0,25.9,No,7.0,1.2,49.0,0
+D00874,Southern Europe,Private Hospital Network,Consumable Bundle,7700.0,19.9,Yes,46.0,4.3,42.0,1
+D00938,DACH,Public Tender,Machine,35733.0,16.4,Yes,11.0,8.7,81.0,0
+D00399,Southern Europe,Private Hospital Network,Consumable Bundle,8430.0,12.8,No,50.0,5.9,23.0,0
+D00978,Southern Europe,Public Tender,Machine,35784.0,18.1,No,3.0,9.4,120.0,0
+D00629,Nordics,Public Tender,Consumable Bundle,4034.0,29.9,Yes,40.0,4.8,49.0,0
+D00937,APAC,Group Purchasing Org,Consumable Bundle,12210.0,28.1,No,52.0,1.6,101.0,1
+D00046,APAC,Private Hospital Network,Machine,39570.0,12.2,No,9.0,7.2,65.0,1
+D00162,APAC,Private Hospital Network,Machine,31836.0,10.6,Yes,9.0,9.9,92.0,1
+D00728,DACH,Private Hospital Network,Consumable Bundle,12785.0,6.9,Yes,56.0,3.6,91.0,0
+D00630,APAC,Private Hospital Network,Consumable Bundle,12869.0,13.4,Yes,62.0,8.9,41.0,0
+D00289,Nordics,Group Purchasing Org,Machine,39530.0,32.4,No,6.0,,34.0,1
+D00590,DACH,Private Hospital Network,Machine,40041.0,8.8,Yes,9.0,8.3,64.0,1
+D01036,LATAM,Private Hospital Network,Machine,34043.0,21.7,No,7.0,2.5,72.0,1
+D00902,Southern Europe,Private Hospital Network,Machine,39070.0,13.3,No,11.0,4.1,51.0,0
+D01072,LATAM,Public Tender,Consumable Bundle,10812.0,17.8,No,61.0,3.0,42.0,1
+D00925,DACH,Private Hospital Network,Machine,19867.0,14.1,No,10.0,5.8,21.0,1
+D00576,Nordics,Group Purchasing Org,Machine,29766.0,18.4,No,6.0,,60.0,1
+D00851,DACH,Group Purchasing Org,Consumable Bundle,8934.0,16.3,No,49.0,10.9,96.0,0
+D00316,Southern Europe,Independent Clinic,Consumable Bundle,14059.0,18.6,Yes,60.0,4.5,55.0,0
+D00812,DACH,Public Tender,Consumable Bundle,10740.0,17.0,Yes,51.0,3.0,36.0,1
+D00912,APAC,Public Tender,Machine,41680.0,20.3,No,8.0,10.3,52.0,0
+D00231,DACH,Independent Clinic,Consumable Bundle,14371.0,13.0,Yes,64.0,7.1,17.0,0
+D00810,APAC,Group Purchasing Org,Consumable Bundle,7881.0,16.1,Yes,43.0,,57.0,1
+D00699,LATAM,Private Hospital Network,Consumable Bundle,6370.0,12.4,Yes,48.0,6.3,85.0,1
+D00982,APAC,Public Tender,Machine,32062.0,15.4,Yes,6.0,,57.0,1
+D00712,LATAM,Private Hospital Network,Machine,40398.0,7.6,Yes,6.0,7.3,63.0,0
+D00933,Southern Europe,Private Hospital Network,Machine,41367.0,18.4,Yes,10.0,3.1,44.0,0
+D00878,Southern Europe,Group Purchasing Org,Consumable Bundle,6693.0,15.6,No,54.0,7.7,38.0,1
+D00077,Southern Europe,Private Hospital Network,Consumable Bundle,8103.0,0.6,Yes,37.0,11.2,11.0,0
+D00909,Southern Europe,Public Tender,Machine,31501.0,7.3,No,7.0,8.1,72.0,0
+D00634,Southern Europe,Public Tender,Consumable Bundle,11327.0,16.6,No,37.0,6.3,58.0,1
+D01083,APAC,Group Purchasing Org,Machine,46642.0,17.6,Yes,9.0,5.3,52.0,0
+D00248,Southern Europe,Private Hospital Network,Machine,39669.0,14.2,No,5.0,7.7,7.0,1
+D00820,Southern Europe,Group Purchasing Org,Machine,25262.0,26.3,Yes,8.0,,56.0,1
+D00825,APAC,Public Tender,Machine,32427.0,19.4,No,7.0,1.4,47.0,0
+D00477,Southern Europe,Independent Clinic,Consumable Bundle,11128.0,12.0,Yes,50.0,4.7,27.0,1
+D00876,APAC,Public Tender,Consumable Bundle,10257.0,27.4,No,49.0,1.6,36.0,1
+D00671,DACH,Independent Clinic,Consumable Bundle,12732.0,20.1,No,59.0,5.1,12.0,0
+D00086,DACH,Group Purchasing Org,Machine,28457.0,19.4,Yes,6.0,0.2,76.0,1
+D00470,Nordics,Private Hospital Network,Consumable Bundle,12924.0,14.2,No,45.0,,31.0,0
+D00226,APAC,Group Purchasing Org,Consumable Bundle,12485.0,19.4,Yes,49.0,,57.0,1
+D00889,DACH,Group Purchasing Org,Consumable Bundle,8189.0,20.3,No,48.0,4.9,36.0,1
+D00775,DACH,Group Purchasing Org,Consumable Bundle,6434.0,17.8,Yes,38.0,9.2,44.0,0
+D00332,DACH,Independent Clinic,Consumable Bundle,6897.0,8.9,Yes,50.0,2.4,77.0,0
+D00234,Nordics,Group Purchasing Org,Machine,30406.0,17.0,Yes,,8.0,59.0,0
+D00589,DACH,Independent Clinic,Consumable Bundle,6235.0,14.3,Yes,32.0,7.2,65.0,1
+D00476,Southern Europe,Public Tender,Consumable Bundle,9576.0,18.3,Yes,51.0,,32.0,1
+D01035,Southern Europe,Private Hospital Network,Machine,29414.0,19.4,Yes,8.0,1.3,54.0,0
+D01023,APAC,Public Tender,Consumable Bundle,13802.0,18.0,Yes,59.0,9.2,61.0,0
+D00600,LATAM,Independent Clinic,Consumable Bundle,5254.0,6.0,No,43.0,3.6,30.0,0
+D00970,DACH,Private Hospital Network,Consumable Bundle,9807.0,25.5,No,51.0,3.2,56.0,1
+D00422,DACH,Private Hospital Network,Consumable Bundle,11760.0,19.8,No,53.0,0.2,59.0,0
+D00688,APAC,Independent Clinic,Consumable Bundle,5265.0,14.9,Yes,49.0,6.0,86.0,0
+D00183,Nordics,Private Hospital Network,Machine,43698.0,14.6,Yes,11.0,4.8,79.0,0
+D00618,Southern Europe,Independent Clinic,Consumable Bundle,8707.0,5.9,Yes,70.0,7.9,31.0,0
+D00333,LATAM,Public Tender,Consumable Bundle,9711.0,16.9,Yes,60.0,0.4,48.0,1
+D00439,LATAM,Group Purchasing Org,Consumable Bundle,14319.0,19.9,No,56.0,6.2,75.0,1
+D00050,DACH,Group Purchasing Org,Machine,18582.0,18.6,Yes,6.0,5.8,92.0,0
+D01028,Southern Europe,Private Hospital Network,Machine,35377.0,12.1,Yes,7.0,7.3,65.0,1
+D00006,APAC,Independent Clinic,Consumable Bundle,15011.0,5.0,No,49.0,4.5,11.0,0
+D00530,Southern Europe,Private Hospital Network,Consumable Bundle,8796.0,12.8,Yes,53.0,3.1,78.0,0
+D00235,APAC,Group Purchasing Org,Consumable Bundle,5729.0,18.0,No,40.0,5.7,55.0,0
+D00487,Nordics,Private Hospital Network,Machine,36677.0,15.2,Yes,7.0,3.8,79.0,1
+D01046,Southern Europe,Group Purchasing Org,Consumable Bundle,11751.0,21.3,Yes,50.0,2.8,62.0,0
+D00498,LATAM,Public Tender,Machine,38546.0,34.3,Yes,3.0,5.1,16.0,1
+D00885,DACH,Independent Clinic,Consumable Bundle,5492.0,5.3,Yes,45.0,3.7,74.0,0
+D01042,LATAM,Private Hospital Network,Consumable Bundle,7850.0,18.0,No,50.0,1.7,33.0,1
+D00107,Southern Europe,Independent Clinic,Consumable Bundle,4534.0,17.7,Yes,55.0,6.7,93.0,0
+D00444,DACH,Public Tender,Consumable Bundle,5006.0,20.8,Yes,50.0,8.3,41.0,0
+D00931,Southern Europe,Public Tender,Consumable Bundle,5733.0,16.9,Yes,44.0,6.8,67.0,1
+D00489,Nordics,Public Tender,Machine,32564.0,17.1,Yes,4.0,5.1,80.0,1
+D00647,DACH,Independent Clinic,Machine,24815.0,6.0,No,7.0,0.2,71.0,0
+D00013,LATAM,Independent Clinic,Consumable Bundle,8087.0,13.5,Yes,31.0,5.6,69.0,0
+D00739,Southern Europe,Independent Clinic,Machine,28814.0,11.1,No,7.0,,56.0,0
+D00727,Southern Europe,Private Hospital Network,Consumable Bundle,9945.0,9.2,Yes,50.0,6.0,24.0,0
+D00191,APAC,Private Hospital Network,Consumable Bundle,12364.0,11.7,No,45.0,11.0,49.0,1
+D01084,APAC,Public Tender,Machine,34354.0,14.1,Yes,10.0,0.2,81.0,0
+D00833,Southern Europe,Independent Clinic,Machine,36994.0,14.1,Yes,8.0,3.4,107.0,0
+D00283,DACH,Private Hospital Network,Machine,35134.0,16.6,Yes,4.0,5.4,86.0,0
+D00030,LATAM,Group Purchasing Org,Consumable Bundle,6418.0,12.6,Yes,62.0,9.5,17.0,0
+D00170,APAC,Private Hospital Network,Consumable Bundle,10470.0,16.8,Yes,51.0,2.1,41.0,1
+D01002,Southern Europe,Public Tender,Consumable Bundle,15568.0,23.8,Yes,53.0,6.8,93.0,1
+D00181,APAC,Private Hospital Network,Consumable Bundle,14305.0,6.4,Yes,49.0,3.4,47.0,0
+D00101,APAC,Private Hospital Network,Consumable Bundle,11683.0,5.5,No,52.0,8.3,52.0,1
+D00198,APAC,Public Tender,Machine,39450.0,22.0,No,6.0,5.1,78.0,0
+D00496,Nordics,Independent Clinic,Machine,32323.0,12.5,Yes,16.0,3.7,39.0,1
+D01003,DACH,Group Purchasing Org,Consumable Bundle,7057.0,10.2,No,61.0,,39.0,0
+D00722,Southern Europe,Private Hospital Network,Machine,41155.0,10.9,No,9.0,4.8,59.0,0
+D00648,Nordics,Private Hospital Network,Machine,28569.0,18.8,Yes,9.0,5.5,24.0,0
+D00988,DACH,Private Hospital Network,Consumable Bundle,10976.0,8.0,No,52.0,8.3,82.0,1
+D00045,APAC,Private Hospital Network,Machine,26271.0,19.5,No,7.0,8.6,65.0,0
+D00662,APAC,Public Tender,Consumable Bundle,10670.0,22.7,Yes,64.0,9.5,77.0,1
+D00711,APAC,Public Tender,Consumable Bundle,5086.0,17.9,Yes,41.0,0.2,31.0,0
+D00374,Southern Europe,Private Hospital Network,Consumable Bundle,12737.0,9.3,No,47.0,7.1,61.0,1
+D00679,DACH,Private Hospital Network,Consumable Bundle,10785.0,24.5,No,43.0,8.1,93.0,1
+D00567,LATAM,Group Purchasing Org,Consumable Bundle,5098.0,22.5,Yes,59.0,7.6,84.0,1
+D00848,LATAM,Group Purchasing Org,Consumable Bundle,8204.0,20.2,No,43.0,2.1,84.0,0
+D00461,Nordics,Group Purchasing Org,Consumable Bundle,4830.0,26.3,No,63.0,8.3,47.0,0
+D00040,LATAM,Independent Clinic,Consumable Bundle,2941.0,8.1,No,,6.2,56.0,0
+D00435,DACH,Public Tender,Consumable Bundle,7861.0,25.9,Yes,53.0,7.3,60.0,1
+D00974,APAC,Group Purchasing Org,Consumable Bundle,11359.0,10.8,No,,5.0,88.0,0
+D01008,Southern Europe,Group Purchasing Org,Machine,25273.0,15.8,Yes,6.0,4.7,75.0,0
+D00457,APAC,Group Purchasing Org,Machine,35931.0,14.8,No,7.0,5.4,75.0,1
+D00261,DACH,Independent Clinic,Consumable Bundle,10903.0,3.6,No,49.0,7.0,59.0,0
+D00036,DACH,Private Hospital Network,Consumable Bundle,10557.0,17.3,No,43.0,0.2,90.0,1
+D00828,DACH,Independent Clinic,Consumable Bundle,9640.0,20.0,Yes,52.0,12.2,50.0,1
+D00310,DACH,Independent Clinic,Consumable Bundle,10440.0,12.0,No,46.0,3.1,82.0,0
+D00277,Southern Europe,Independent Clinic,Machine,41255.0,20.9,No,6.0,2.2,59.0,0
+D00637,LATAM,Group Purchasing Org,Consumable Bundle,11380.0,11.8,Yes,41.0,8.8,25.0,1
+D00655,APAC,Private Hospital Network,Consumable Bundle,7363.0,5.3,Yes,59.0,8.4,33.0,0
+D00623,APAC,Independent Clinic,Machine,51177.0,10.8,Yes,2.0,9.8,100.0,1
+D00845,DACH,Group Purchasing Org,Consumable Bundle,16195.0,15.8,No,55.0,,43.0,1
+D00394,LATAM,Independent Clinic,Machine,34437.0,16.6,No,8.0,8.2,91.0,0
+D00108,Southern Europe,Private Hospital Network,Consumable Bundle,11086.0,13.7,Yes,54.0,4.8,51.0,1
+D00350,DACH,Public Tender,Machine,27741.0,33.2,Yes,2.0,4.5,56.0,1
+D00525,DACH,Private Hospital Network,Machine,41095.0,33.2,No,7.0,7.4,91.0,1
+D00785,APAC,Private Hospital Network,Machine,40164.0,10.3,Yes,7.0,6.1,95.0,1
+D00048,Southern Europe,Group Purchasing Org,Consumable Bundle,6091.0,19.8,No,55.0,2.1,51.0,1
+D00204,DACH,Public Tender,Consumable Bundle,7388.0,22.0,No,46.0,5.3,71.0,0
+D00022,Southern Europe,Public Tender,Consumable Bundle,6819.0,8.4,No,46.0,4.7,58.0,0
+D00403,LATAM,Private Hospital Network,Consumable Bundle,6327.0,29.2,Yes,47.0,6.3,35.0,0
+D00990,LATAM,Private Hospital Network,Machine,31159.0,4.4,Yes,11.0,6.4,71.0,0
+D00742,DACH,Private Hospital Network,Machine,25037.0,18.0,Yes,10.0,5.1,43.0,0
+D00034,Southern Europe,Independent Clinic,Consumable Bundle,8156.0,17.7,Yes,42.0,9.9,67.0,1
+D00788,Southern Europe,Public Tender,Consumable Bundle,9532.0,-24.0,Yes,50.0,3.3,54.0,0
+D00924,Nordics,Public Tender,Consumable Bundle,10475.0,21.8,Yes,54.0,11.9,52.0,0
+D01044,LATAM,Group Purchasing Org,Machine,40106.0,32.6,No,9.0,9.9,66.0,0
+D01061,APAC,Private Hospital Network,Machine,43846.0,10.6,No,6.0,8.4,49.0,1
+D00580,Southern Europe,Private Hospital Network,Machine,38880.0,0.0,Yes,5.0,0.2,43.0,0
+D00482,DACH,Private Hospital Network,Consumable Bundle,15431.0,14.3,Yes,52.0,,52.0,0
+D00932,Southern Europe,Private Hospital Network,Consumable Bundle,10961.0,18.8,Yes,46.0,0.9,45.0,0
+D00357,LATAM,Public Tender,Machine,46382.0,8.8,Yes,7.0,6.5,104.0,1
+D00760,Nordics,Public Tender,Consumable Bundle,11631.0,24.1,Yes,51.0,6.9,66.0,0
+D00093,Southern Europe,Group Purchasing Org,Consumable Bundle,10434.0,25.6,Yes,51.0,5.4,36.0,1
+D00804,Nordics,Public Tender,Consumable Bundle,10290.0,14.0,Yes,60.0,6.7,97.0,1
+D00746,Nordics,Independent Clinic,Machine,21054.0,22.0,Yes,,1.1,48.0,1
+D00280,APAC,Private Hospital Network,Consumable Bundle,9153.0,8.0,Yes,45.0,5.4,44.0,0
+D00765,APAC,Independent Clinic,Machine,25644.0,12.6,No,6.0,2.0,83.0,0
+D00605,APAC,Private Hospital Network,Machine,24123.0,0.8,Yes,8.0,,20.0,0
+D01088,LATAM,Independent Clinic,Consumable Bundle,7895.0,16.5,No,56.0,3.6,34.0,0
+D00401,Southern Europe,Independent Clinic,Machine,46155.0,17.0,No,9.0,4.0,88.0,0
+D00258,DACH,Private Hospital Network,Machine,38823.0,11.7,No,8.0,7.7,66.0,0
+D00945,Southern Europe,Group Purchasing Org,Consumable Bundle,7241.0,26.7,No,50.0,5.1,102.0,0
+D00495,LATAM,Group Purchasing Org,Consumable Bundle,5366.0,15.2,Yes,42.0,2.4,69.0,0
+D00773,Nordics,Group Purchasing Org,Machine,30280.0,20.3,Yes,10.0,9.9,67.0,0
+D00551,Nordics,Public Tender,Machine,25446.0,18.0,No,12.0,4.1,81.0,0
+D00202,APAC,Private Hospital Network,Consumable Bundle,8791.0,16.4,Yes,29.0,7.8,51.0,1
+D00313,DACH,Group Purchasing Org,Machine,29655.0,21.0,Yes,6.0,5.7,28.0,0
+D00291,APAC,Group Purchasing Org,Consumable Bundle,14477.0,15.6,No,53.0,5.9,45.0,1
+D00764,DACH,Private Hospital Network,Consumable Bundle,5191.0,24.3,No,47.0,7.2,65.0,1
+D00950,Southern Europe,Private Hospital Network,Machine,24504.0,10.0,Yes,6.0,2.4,70.0,0
+D00184,Southern Europe,Independent Clinic,Machine,35454.0,15.4,Yes,9.0,6.4,44.0,1
+D01069,DACH,Private Hospital Network,Consumable Bundle,7014.0,13.7,No,46.0,5.0,92.0,0
+D01031,Nordics,Public Tender,Consumable Bundle,12104.0,14.0,Yes,48.0,3.7,77.0,0
+D00251,LATAM,Independent Clinic,Consumable Bundle,10588.0,11.0,No,43.0,8.0,36.0,1
+D00824,LATAM,Private Hospital Network,Consumable Bundle,9506.0,24.9,No,50.0,6.9,43.0,0
+D00941,Southern Europe,Public Tender,Machine,34129.0,15.9,No,5.0,0.2,40.0,0
+D00392,DACH,Group Purchasing Org,Consumable Bundle,12106.0,18.6,No,42.0,8.7,67.0,0
+D00905,APAC,Public Tender,Consumable Bundle,8565.0,19.4,No,47.0,3.0,53.0,0
+D00731,Southern Europe,Private Hospital Network,Consumable Bundle,9446.0,26.6,Yes,57.0,10.7,56.0,1
+D00555,DACH,Group Purchasing Org,Consumable Bundle,6203.0,8.6,Yes,51.0,,49.0,1
+D00367,LATAM,Private Hospital Network,Machine,41431.0,14.2,Yes,7.0,7.2,82.0,1
+D00346,LATAM,Private Hospital Network,Machine,37080.0,21.2,No,5.0,4.9,45.0,0
+D00536,DACH,Private Hospital Network,Consumable Bundle,4712.0,11.5,Yes,60.0,6.6,57.0,0
+D00920,Nordics,Private Hospital Network,Machine,41940.0,8.1,No,8.0,3.5,26.0,1
+D00212,Nordics,Group Purchasing Org,Consumable Bundle,6756.0,19.7,Yes,46.0,7.9,83.0,1
+D00503,APAC,Independent Clinic,Machine,36427.0,19.4,No,6.0,2.4,84.0,1
+D00538,DACH,Group Purchasing Org,Consumable Bundle,11499.0,26.6,Yes,46.0,0.2,85.0,1
+D00176,DACH,Private Hospital Network,Machine,34793.0,24.1,No,13.0,6.0,13.0,0
