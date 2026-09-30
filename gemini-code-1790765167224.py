@@ -3,6 +3,10 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 from scipy.stats import chi2_contingency
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.graph_objects as go
+
 
 # ------------------------------------------------------------------------------
 # 1. PAGE CONFIGURATION
@@ -177,7 +181,7 @@ with tab1:
             "days_median", "days_range", "days_profile"
         ],
         hide_index=True,
-        use_container_width=True
+        width="stretch"
     )
 
     st.subheader("Visual Distribution & Spread Analysis (Box Plots with Deal Points)")
@@ -239,7 +243,65 @@ with tab1:
             labels={'unit_price_eur': 'Average Unit Price (€)', 'discount_pct': 'Discount (%)', 'customer_segment': 'Segment'}
         )
         st.plotly_chart(fig_unit_price, use_container_width=True)
+        
+        # ------------------------------------------------------------------------------
+        # SPLIT VIOLIN PLOT (INTERACTIVE PLOTLY)
+        # ------------------------------------------------------------------------------
+    st.subheader("🎻 Discount Distribution: Won vs Lost (Interactive Split Violin)")
 
+    if not filtered_df.empty:
+        df_violin = filtered_df.copy()
+    
+        # Подсчет количества сделок
+        counts = df_violin.groupby(['product_type', 'win_flag']).size().unstack(fill_value=0)
+    
+        x_map = {
+            pt: f"{pt}<br><b>(Lost N={counts.loc[pt, 0]} | Won N={counts.loc[pt, 1]})</b>"
+            for pt in df_violin['product_type'].unique() if pt in counts.index
+        }    
+        df_violin['x_display'] = df_violin['product_type'].map(x_map)
+
+        fig_split = go.Figure()
+
+        # Левая половина: Lost (0)
+        fig_split.add_trace(go.Violin(
+            x=df_violin['x_display'][df_violin['win_flag'] == 0],
+            y=df_violin['discount_pct'][df_violin['win_flag'] == 0],
+            legendgroup='Lost (0)',
+            scalegroup='discount',
+            name='Lost (0)',
+            side='negative',
+            line_color='#c97a7e',
+            fillcolor='#e09b9e',
+            meanline_visible=True,
+            box_visible=True
+        ))
+
+        # Правая половина: Won (1)
+        fig_split.add_trace(go.Violin(
+            x=df_violin['x_display'][df_violin['win_flag'] == 1],
+            y=df_violin['discount_pct'][df_violin['win_flag'] == 1],
+            legendgroup='Won (1)',
+            scalegroup='discount',
+            name='Won (1)',
+            side='positive',
+            line_color='#4c956c',
+            fillcolor='#60ab81',
+            meanline_visible=True,
+            box_visible=True
+        ))
+
+        fig_split.update_layout(
+            violinmode='overlay',
+            title="Discount Distribution: Split Violin Plot",
+            yaxis_title="Discount (%)",
+            xaxis_title="Product Type",
+            legend_title_text="Deal Outcome (win_flag)"
+        )
+
+        st.plotly_chart(fig_split, use_container_width=True)
+    else:
+        st.warning("No data available for selected filters.")
 # ==============================================================================
 # TAB 2: WIN RATE & COMPETITION (STATISTICAL ANALYSIS)
 # ==============================================================================
@@ -328,7 +390,7 @@ with tab2:
             "CI_95_Range": "95% Confidence Interval"
         },
         hide_index=True,
-        use_container_width=True
+        width="stretch"
     )
 
 # ==============================================================================
