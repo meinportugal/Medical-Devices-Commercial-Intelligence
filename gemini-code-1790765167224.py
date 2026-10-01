@@ -247,7 +247,7 @@ with tab1:
         # ------------------------------------------------------------------------------
         # SPLIT VIOLIN PLOT (INTERACTIVE PLOTLY)
         # ------------------------------------------------------------------------------
-    st.subheader("🎻 Discount Distribution: Won vs Lost (Interactive Split Violin)")
+    st.subheader("Discount Distribution: Won vs Lost")
 
     if not filtered_df.empty:
         df_violin = filtered_df.copy()
